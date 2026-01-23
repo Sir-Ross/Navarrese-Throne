@@ -6,7 +6,6 @@ REB     = "countries/rebels.txt"
 ### Europe ###
 
 ###Western###
-AGF     = "countries/Anglo-Frisia.txt"
 ARA     = "countries/Aragon.txt"
 AUS     = "countries/Austria.txt"
 BAV     = "countries/Bavaria.txt"
@@ -14,6 +13,7 @@ BRA     = "countries/Brandenberg.txt"
 BRE     = "countries/Bretonnia.txt"
 BUR     = "countries/Burgundy.txt"
 HAN     = "countries/Hanover.txt"
+FRI     = "countries/Friesland.txt"
 LOR     = "countries/Lorraine.txt"
 OCC     = "countries/Occitania.txt"
 PAP     = "countries/Papal States.txt"
@@ -37,3 +37,70 @@ MAC     = "countries/Macedonia.txt"
 NOV     = "countries/Novgorod.txt"
 OTT     = "countries/Ottoman Empire.txt"
 POM     = "countries/Pomerelia.txt"
+
+### Asia ###
+
+###Middle East###
+ABY     = "countries/Abyssinia.txt"
+EGY     = "countries/Egypt.txt"
+IRQ     = "countries/Iraq.txt"
+KHL     = "countries/Khalid.txt"
+OMA     = "countries/Oman.txt"
+
+###Central###
+BUK     = "countries/Bukhara.txt"
+GOL     = "countries/Golden Horde.txt"
+KHV     = "countries/Khiva.txt"
+PER     = "countries/Persia.txt"
+
+###South###
+HYD     = "countries/Hyderabad.txt"
+MUG     = "countries/Mughal Empire.txt"
+SKH     = "countries/Sikh Empire.txt"
+
+###Southeast###
+AYU     = "countries/Ayutthaya.txt"
+CAM     = "countries/Cambodia.txt"
+DAI     = "countries/Dai Nam.txt"
+LNA     = "countries/Lan Na.txt"
+LXA     = "countries/Lan Xang.txt"
+
+###East###
+ANH     = "countries/Anhui.txt"
+DZU     = "countries/Dzungaria.txt"
+JAP     = "countries/Japan.txt"
+KOR     = "countries/Korea.txt"
+MAN     = "countries/Manchuria.txt"
+MNG     = "countries/Ming.txt"
+SEB     = "countries/Sebastines.txt"
+SFE     = "countries/Swedish Far East.txt"
+SHU     = "countries/Shun.txt"
+TOH     = "countries/Tohoku.txt"
+
+###Oceania###
+FEI     = "countries/Frisian East Indies.txt"
+NCA     = "countries/New Caledonia.txt"
+NCO     = "countries/New Cordoba.txt"
+NHO     = "countries/New Holland.txt"
+
+### New World ###
+
+###North America###
+ALN     = "countries/Alba Nuadh.txt"
+NCU     = "countries/New Cuba.txt"
+NFR     = "countries/New Frisia.txt"
+NLE     = "countries/New Leon.txt"
+NLI     = "countries/New Lisbon.txt"
+NPO     = "countries/New Portugal.txt"
+NSW     = "countries/New Sweden.txt"
+NUN     = "countries/Nunavikland.txt"
+VIN     = "countries/Vinland.txt"
+
+###South America###
+BRA     = "countries/Brasil.txt"
+GUI     = "countries/Guiana.txt"
+NGA     = "countries/New Galicia.txt"
+PAT     = "countries/Patagonia.txt"
+TAW     = "countries/Tawantinsuyu.txt"
+TIW     = "countries/Tiwanaku.txt"
+WLL     = "countries/Wallmapu.txt"
