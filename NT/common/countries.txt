@@ -1,4 +1,39 @@
 # Special countries
 REB     = "countries/rebels.txt"
 
-###Europe###
+### STARTING COUNTRIES ###
+
+### Europe ###
+
+###Western###
+AGF     = "countries/Anglo-Frisia.txt"
+ARA     = "countries/Aragon.txt"
+AUS     = "countries/Austria.txt"
+BAV     = "countries/Bavaria.txt"
+BRA     = "countries/Brandenberg.txt"
+BRE     = "countries/Bretonnia.txt"
+BUR     = "countries/Burgundy.txt"
+HAN     = "countries/Hanover.txt"
+LOR     = "countries/Lorraine.txt"
+OCC     = "countries/Occitania.txt"
+PAP     = "countries/Papal States.txt"
+PIE     = "countries/Piedmont.txt"
+POR     = "countries/Portugal.txt"
+SAV     = "countries/Savoy.txt"
+SAX     = "countries/Saxony.txt"
+SIC     = "countries/Sicily.txt"
+SWE     = "countries/Sweden.txt"
+VEN     = "countries/Venice.txt"
+WPH     = "countries/Westphalia.txt"
+
+###Eastern###
+ALB     = "countries/Albania.txt"
+BOH     = "countries/Bohemia.txt"
+HUN     = "countries/Hungary.txt"
+ILL     = "countries/Illyria.txt"
+LIT     = "countries/Lithuania.txt"
+LIV     = "countries/Livonia.txt"
+MAC     = "countries/Macedonia.txt"
+NOV     = "countries/Novgorod.txt"
+OTT     = "countries/Ottoman Empire.txt"
+POM     = "countries/Pomerelia.txt"
