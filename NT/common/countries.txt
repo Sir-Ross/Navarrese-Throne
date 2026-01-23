@@ -1,0 +1,4 @@
+# Special countries
+REB     = "countries/rebels.txt"
+
+###Europe###
