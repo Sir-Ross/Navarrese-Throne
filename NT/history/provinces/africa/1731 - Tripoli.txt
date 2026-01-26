@@ -1,0 +1,9 @@
+owner = TUR
+controller = TUR
+add_core = TRI
+trade_goods = fruit
+life_rating = 35
+colonial = 0
+owner = SIC
+controller = SIC
+add_core = SIC

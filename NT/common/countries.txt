@@ -6,11 +6,12 @@ REB     = "countries/rebels.txt"
 ### Europe ###
 
 ###Western###
-ARA     = "countries/Aragon.txt"
+ARG     = "countries/Aragon.txt"
 AUS     = "countries/Austria.txt"
 BAV     = "countries/Bavaria.txt"
 BRA     = "countries/Brandenberg.txt"
 BRE     = "countries/Bretonnia.txt"
+BRT     = "countries/Brittany.txt"
 BUR     = "countries/Burgundy.txt"
 HAN     = "countries/Hanover.txt"
 FRI     = "countries/Friesland.txt"

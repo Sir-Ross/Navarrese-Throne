@@ -1,0 +1,8 @@
+owner = ARN
+controller = ARN
+add_core = ARN
+trade_goods = fish
+life_rating = 35
+colonial = 2
+naval_base = 2
+fort = 1

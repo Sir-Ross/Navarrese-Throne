@@ -1,0 +1,10 @@
+capital = 498
+primary_culture = catalan
+culture = spanish
+religion = catholic
+government = hms_government
+plurality = 0
+nationalvalue = nv_order
+literacy = 0.066917
+
+civilized = yes
