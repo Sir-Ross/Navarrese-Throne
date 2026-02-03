@@ -6,7 +6,7 @@ REB     = "countries/rebels.txt"
 ### Europe ###
 
 ###Western###
-ARG     = "countries/Aragon.txt"
+ARN     = "countries/Aragon.txt"
 AUS     = "countries/Austria.txt"
 BAV     = "countries/Bavaria.txt"
 BRA     = "countries/Brandenberg.txt"
