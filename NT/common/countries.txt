@@ -92,7 +92,7 @@ SFE     = "countries/Swedish Far East.txt"
 # North America
 #ALN     = "countries/Alba Nuadh.txt"
 #NCU     = "countries/New Cuba.txt"
-#NFR     = "countries/New Frisia.txt"
+NFR     = "countries/New Frisia.txt"
 #NLE     = "countries/New Leon.txt"
 #NLI     = "countries/New Lisbon.txt"
 #NPO     = "countries/New Portugal.txt"
