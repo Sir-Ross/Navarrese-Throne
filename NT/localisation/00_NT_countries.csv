@@ -1,16 +1,26 @@
+ARN;Aragon;;;;;;;;;x;;;;
+ARN_ADJ;Aragonese;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 FRI;Friesland;;;;;;;;;x;;;;
 FRI_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 FRI_absolute_monarchy;Kingdom of Friesland;;;;;;;;;;;;;;;;;;;;;;;;x
 FRI_absolute_monarchy_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;x
-FRI_prussian_constitutionalism;Frisian Empire;;;;;;;;;;;;;;;;;;;;;;;x
-FRI_prussian_constitutionalism_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;x
-FRI_hms_government;Friesland;;;;;;;;;;;;;;;;;;;;;;;;x
-FRI_hms_government_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;x
 FRI_bourgeois_dictatorship;Frisian State;;;;;;;;;;;;;x
 FRI_bourgeois_dictatorship_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-FRI_proletarian_dictatorship;Frisian Socialist Republic;;;;;;;;;;;;;x
-FRI_proletarian_dictatorship_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-FRI_fascist_dictatorship;Frisian Ryk;;;;;;;;;;;;;x
-FRI_fascist_dictatorship_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 FRI_democracy;Frisian Republic;;;;;;;;;;;;;x
 FRI_democracy;Friesland;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+FRI_fascist_dictatorship;Frisian Ryk;;;;;;;;;;;;;x
+FRI_fascist_dictatorship_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+FRI_hms_government;Friesland;;;;;;;;;;;;;;;;;;;;;;;;x
+FRI_hms_government_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;x
+FRI_proletarian_dictatorship;Frisian Socialist Republic;;;;;;;;;;;;;x
+FRI_proletarian_dictatorship_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+FRI_prussian_constitutionalism;Frisian Empire;;;;;;;;;;;;;;;;;;;;;;;x
+FRI_prussian_constitutionalism_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;x
+NUN;Nunavikland;;;;;;;;;x;;;;
+NUN_ADJ;Nunaviklandic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+OCC;Occitania;;;;;;;;;x;;;;
+OCC_ADJ;Occitan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+VIN;Vinland;;;;;;;;;x;;;;
+VIN_ADJ;Vinlandic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+WES;Weseria;;;;;;;;;x;;;;
+WES_ADJ;Weserian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
