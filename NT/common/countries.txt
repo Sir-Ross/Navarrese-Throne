@@ -116,7 +116,7 @@ VIN     = "countries/Vinland.txt"
 
 # Western
 #ADO     = "countries/Andorra.txt"
-#AGF     = "countries/Anglo-Frisia.txt"
+## MAY REMOVE ## #AGF     = "countries/Anglo-Frisia.txt"
 #ALS     = "countries/Elsass.txt"
 #AQU     = "countries/Aquitania.txt"
 #COR     = "countries/Cornwall.txt"
