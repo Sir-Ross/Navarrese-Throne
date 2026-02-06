@@ -1,24 +1,29 @@
 ;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ARN;Aragon;;;;;;;;;x;;;;
+ARN_absolute_monarchy;Kingdom of Aragon;;;;;;;;;x;;;;
+ARN_bourgeois_dictatorship;State of Aragon;;;;;;;;;x;;;;
+ARN_democracy;Argagonese Republic;;;;;;;;;x;;;;
+ARN_fascist_dictatorship;Union of Aragon;;;;;;;;;x;;;;
+ARN_proletarian_dictatorship;Aragonese Commune;;;;;;;;;x;;;;
 ARN_ADJ;Aragonese;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 FRI;Friesland;;;;;;;;;x;;;;
+FRI_absolute_monarchy;Kingdom of Friesland;;;;;;;;;x;;;;
+FRI_bourgeois_dictatorship;Frisian State;;;;;;;;;x;;;;
+FRI_democracy;Frisian Republic;;;;;;;;;x;;;;
+FRI_fascist_dictatorship;Frisian Ryk;;;;;;;;;x;;;;
+FRI_hms_government;Friesland;;;;;;;;;x;;;;
+FRI_proletarian_dictatorship;Frisian Socialist Republic;;;;;;;;;x;;;;
+FRI_prussian_constitutionalism;Frisian Empire;;;;;;;;;x;;;;
 FRI_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-FRI_absolute_monarchy;Kingdom of Friesland;;;;;;;;;;;;;;;;;;;;;;;;x
-FRI_absolute_monarchy_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;x
-FRI_bourgeois_dictatorship;Frisian State;;;;;;;;;;;;;x
-FRI_bourgeois_dictatorship_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-FRI_democracy;Frisian Republic;;;;;;;;;;;;;x
-FRI_democracy;Friesland;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-FRI_fascist_dictatorship;Frisian Ryk;;;;;;;;;;;;;x
-FRI_fascist_dictatorship_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-FRI_hms_government;Friesland;;;;;;;;;;;;;;;;;;;;;;;;x
-FRI_hms_government_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;x
-FRI_proletarian_dictatorship;Frisian Socialist Republic;;;;;;;;;;;;;x
-FRI_proletarian_dictatorship_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-FRI_prussian_constitutionalism;Frisian Empire;;;;;;;;;;;;;;;;;;;;;;;x
-FRI_prussian_constitutionalism_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;;x
 GHL;Gaidhealand;;;;;;;;;x;;;;
-GHL;Gaelic;;;;;;;;;;;;;;;;;;;;;;;;x
+GHL_absolute_monarchy;Kingdom of Gaidheal;;;;;;;;;x;;;;
+GHL_bourgeois_dictatorship;Gaelic State;;;;;;;;;x;;;;
+GHL_democracy;Gaidheal Republic;;;;;;;;;x;;;;
+GHL_fascist_dictatorship;Gaelic Impireachd;;;;;;;;;x;;;;
+GHL_proletariat_dictatorship;The Comairle Union;;;;;;;;;x;;;;
+GHL_proletariat_dictatorship_ADJ;Comairle;;;;;;;;;x;;;;
+GHL_prussian_constitutionalism;Gaelic Empire;;;;;;;;;x;;;;
+GHL_ADJ;Gaelic;;;;;;;;;;;;;;;;;;;;;;;;x
 NFR;New Frisia;;;;;;;;;x;;;;
 NFR_ADJ;New Frisian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 NUN;Nunavikland;;;;;;;;;x;;;;
