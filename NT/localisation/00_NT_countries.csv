@@ -27,8 +27,13 @@ GHL_ADJ;Gaelic;;;;;;;;;;;;;;;;;;;;;;;;x
 NFR;New Frisia;;;;;;;;;;;;;;;;x;;;;;;;;
 NFR_ADJ;New Frisian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 NOV;Novgorod;;;;;;;;;;;;;;;;x;;;;;;;;
+NOV_absolute_monarchy;Novgorodian Tsardom;;;;;;;;;;;;;;;;x;;;;;;;;
+NOV_bourgeois_dictatorship;Great Novgorod;;;;;;;;;;;;;;;;x;;;;;;;;
+NOV_democracy;Novgorod Republic;;;;;;;;;;;;;;;;x;;;;;;;;
+NOV_fascist_dictatorship;Novgorod the Great;;;;;;;;;;;;;;;;x;;;;;;;;
 NOV_proletariat_dictatorship;The Veche Union;;;;;;;;;;;;;;;;x;;;;;;;;
 NOV_proletariat_dictatorship_ADJ;Vechian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+NOV_prussian_constitutionalism;Sovereign Lord Novgorod the Great;;;;;;;;;;;;;;;;x;;;;;;;;
 NOV_ADJ;Novgorodian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 NUN;Nunavikland;;;;;;;;;;;;;;;;x;;;;;;;;
 NUN_ADJ;Nunaviklandic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
