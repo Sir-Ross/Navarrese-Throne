@@ -76,10 +76,10 @@ NOV     = "countries/Novgorod.txt"
 #KOR     = "countries/Korea.txt"
 #MAN     = "countries/Manchuria.txt"
 #MNG     = "countries/Ming.txt"
-#SEB     = "countries/Sebastines.txt"
+SEB     = "countries/Sebastines.txt"
 SFE     = "countries/Swedish Far East.txt"
 #SHU     = "countries/Shun.txt"
-#TOH     = "countries/Tohoku.txt"
+#TOH     = "countries/Tohoku.txt" ### LIKELY TO BE REWRITTEN ###
 
 # Oceania
 #FEI     = "countries/Frisian East Indies.txt"
