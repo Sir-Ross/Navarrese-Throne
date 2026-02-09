@@ -38,7 +38,7 @@ OCC     = "countries/Occitania.txt"
 #LIT     = "countries/Lithuania.txt"
 #LIV     = "countries/Livonia.txt"
 #MAC     = "countries/Macedonia.txt"
-#NOV     = "countries/Novgorod.txt"
+NOV     = "countries/Novgorod.txt"
 #OTT     = "countries/Ottoman Empire.txt"
 #PML     = "countries/Pomerelia.txt"
 
