@@ -25,12 +25,16 @@ GHL_proletariat_dictatorship_ADJ;Comairle;;;;;;;;;;;;;;;;x;;;;;;;;
 GHL_prussian_constitutionalism;Gaelic Empire;;;;;;;;;;;;;;;;x;;;;;;;;
 GHL_ADJ;Gaelic;;;;;;;;;;;;;;;;;;;;;;;;x
 NCU;New Cuba;;;;;;;;;;;;;;;;x;;;;;;;;
+NCU_dominion;Viceroyalty of New Cuba;;;;;;;;;;;;;;;;x;;;;;;;;
 NCU_ADJ;New Cuban;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 NFR;New Frisia;;;;;;;;;;;;;;;;x;;;;;;;;
+NFR_dominion;Dominion of New Frisia;;;;;;;;;;;;;;;;x;;;;;;;;
 NFR_ADJ;New Frisian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 NLE;New Leon;;;;;;;;;;;;;;;;x;;;;;;;;
+NLE_dominion;Viceroyalty of New Leon;;;;;;;;;;;;;;;;x;;;;;;;;
 NLE_ADJ;New Leonese;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 NLI;New Lisbon;;;;;;;;;;;;;;;;x;;;;;;;;
+NLI_dominion;Viceroyalty of New Lisbon;;;;;;;;;;;;;;;;x;;;;;;;;
 NLI_ADJ;New Lisboan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 NOV;Novgorod;;;;;;;;;;;;;;;;x;;;;;;;;
 NOV_absolute_monarchy;Novgorodian Tsardom;;;;;;;;;;;;;;;;x;;;;;;;;
@@ -42,6 +46,7 @@ NOV_proletariat_dictatorship_ADJ;Vechian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 NOV_prussian_constitutionalism;Sovereign Lord Novgorod the Great;;;;;;;;;;;;;;;;x;;;;;;;;
 NOV_ADJ;Novgorodian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 NPO;New Portugal;;;;;;;;;;;;;;;;x;;;;;;;;
+NPO_dominion;Viceroyalty of New Portugal;;;;;;;;;;;;;;;;x;;;;;;;;
 NPO_ADJ;New Portuguese;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 NUN;Nunavikland;;;;;;;;;;;;;;;;x;;;;;;;;
 NUN_ADJ;Nunaviklandic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
