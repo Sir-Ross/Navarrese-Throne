@@ -70,7 +70,7 @@ NOV     = "countries/Novgorod.txt"
 #LXA     = "countries/Lan Xang.txt"
 
 # East
-#ANH     = "countries/Anhui.txt"
+#ANH     = "countries/Anhui.txt" ### LIKELY TO BE REMOVED ###
 #DZU     = "countries/Dzungaria.txt"
 #JAP     = "countries/Japan.txt"
 #KOR     = "countries/Korea.txt"
@@ -80,6 +80,7 @@ SEB     = "countries/Sebastines.txt"
 SFE     = "countries/Swedish Far East.txt"
 #SHU     = "countries/Shun.txt"
 #TOH     = "countries/Tohoku.txt" ### LIKELY TO BE REWRITTEN ###
+#XID     = "countries/Xi.txt"
 
 # Oceania
 #FEI     = "countries/Frisian East Indies.txt"
@@ -186,3 +187,8 @@ VIN     = "countries/Vinland.txt"
 #SLS     = "countries/Silesia.txt"
 WSR     = "countries/Weserian Federation.txt" ## formable
 #WUR     = "countries/Wurttemberg.txt"
+
+## Asia ##
+
+# China
+#PRL     = "countries/Pure Land.txt"
