@@ -107,7 +107,7 @@ VIN     = "countries/Vinland.txt"
 #PAT     = "countries/Patagonia.txt"
 #TAW     = "countries/Tawantinsuyu.txt"
 #TIW     = "countries/Tiwanaku.txt"
-#WLL     = "countries/Wallmapu.txt"
+#WLM     = "countries/Wallmapu.txt"
 
 
 ### FORMABLE AND RELEASABLE TAGS ###
