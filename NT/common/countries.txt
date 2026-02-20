@@ -103,12 +103,12 @@ VIN     = "countries/Vinland.txt"
 
 # South America
 #BRA     = "countries/Brasil.txt"
+#CHM     = "countries/Chimor.txt"
 #GUI     = "countries/Guiana.txt"
 #NGA     = "countries/New Galicia.txt"
 #PAT     = "countries/Patagonia.txt"
 #TIW     = "countries/Tiwanaku.txt"
 #WAR     = "countries/Wari.txt"
-#WLM     = "countries/Wallmapu.txt"
 
 
 ### FORMABLE AND RELEASABLE TAGS ###
@@ -198,3 +198,4 @@ WSR     = "countries/Weserian Federation.txt" ## formable
 
 # South
 #TAW     = "countries/Tawantinsuyu.txt" ## formable
+#WLM     = "countries/Wallmapu.txt"
