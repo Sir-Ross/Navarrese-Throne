@@ -131,6 +131,7 @@ VIN     = "countries/Vinland.txt"
 #COR     = "countries/Cornwall.txt"
 #ENG     = "countries/England.txt"
 #IRE     = "countries/Ireland.txt"
+#ROS     = "countries/Ross.txt"
 #SCO     = "countries/Scotland.txt"
 #WHA     = "countries/Wales.txt"
 
