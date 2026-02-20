@@ -106,8 +106,8 @@ VIN     = "countries/Vinland.txt"
 #GUI     = "countries/Guiana.txt"
 #NGA     = "countries/New Galicia.txt"
 #PAT     = "countries/Patagonia.txt"
-#TAW     = "countries/Tawantinsuyu.txt"
 #TIW     = "countries/Tiwanaku.txt"
+#WAR     = "countries/Wari.txt"
 #WLM     = "countries/Wallmapu.txt"
 
 
@@ -193,3 +193,8 @@ WSR     = "countries/Weserian Federation.txt" ## formable
 
 # China
 #PRL     = "countries/Pure Land.txt"
+
+## Americas ##
+
+# South
+#TAW     = "countries/Tawantinsuyu.txt" ## formable
