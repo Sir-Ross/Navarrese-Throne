@@ -1,6 +1,6 @@
 capital = 498
 primary_culture = catalan
-culture = spanish
+culture = catalan
 religion = catholic
 government = hms_government
 plurality = 0
