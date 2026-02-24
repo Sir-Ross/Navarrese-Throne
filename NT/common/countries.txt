@@ -4,7 +4,7 @@
 # Special countries
 REB     = "countries/rebels.txt"
 
-### STARTING COUNTRIES ###
+###### STARTING COUNTRIES ######
 
 ## Europe ##
 
@@ -33,14 +33,22 @@ OCC     = "countries/Occitania.txt"
 # Eastern
 #ALB     = "countries/Albania.txt"
 #BOH     = "countries/Bohemia.txt"
+#CHM     = "countries/Chelm.txt"
+#GLC     = "countries/Galicia.txt"
 #HUN     = "countries/Hungary.txt"
 #ILL     = "countries/Illyria.txt"
+#LEC     = "countries/Leczyca.txt"
 #LIT     = "countries/Lithuania.txt"
 #LIV     = "countries/Livonia.txt"
 #MAC     = "countries/Macedonia.txt"
+#MAZ     = "countries/Mazovia.txt"
 NOV     = "countries/Novgorod.txt"
 #OTT     = "countries/Ottoman Empire.txt"
 #PML     = "countries/Pomerelia.txt"
+#RRT     = "countries/Red Ruthenia.txt"
+#SIR     = "countries/Sieradz.txt"
+#SND     = "countries/Sandomierz.txt"
+#VOL     = "countries/Volhynia.txt"
 
 ## Asia ##
 
@@ -111,7 +119,7 @@ VIN     = "countries/Vinland.txt"
 #WAR     = "countries/Wari.txt"
 
 
-### FORMABLE TAGS ###
+###### FORMABLE TAGS ######
 
 ## Europe ##
 #AGF     = "countries/Anglo-Frisia.txt" ## MAY REMOVE ## 
@@ -132,7 +140,7 @@ WSR     = "countries/Weserian Federation.txt"
 #TAW     = "countries/Tawantinsuyu.txt"
 
 
-### RELEASABLE AND BREAKAWAY TAGS ###
+###### RELEASABLE AND BREAKAWAY TAGS ######
 
 ## Europe ##
 
@@ -200,6 +208,9 @@ WSR     = "countries/Weserian Federation.txt"
 #SCH     = "countries/Schleswig.txt"
 #SLS     = "countries/Silesia.txt"
 #WUR     = "countries/Wurttemberg.txt"
+
+# Eastern
+#KRA     = "countries/Krakow.txt"
 
 ## Asia ##
 
