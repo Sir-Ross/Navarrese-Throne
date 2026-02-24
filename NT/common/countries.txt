@@ -50,6 +50,11 @@ NOV     = "countries/Novgorod.txt"
 #SND     = "countries/Sandomierz.txt"
 #VOL     = "countries/Volhynia.txt"
 
+## Africa ##
+
+# South
+#GSN     = "countries/Gosen.txt"
+
 ## Asia ##
 
 # Middle East
