@@ -111,7 +111,28 @@ VIN     = "countries/Vinland.txt"
 #WAR     = "countries/Wari.txt"
 
 
-### FORMABLE AND RELEASABLE TAGS ###
+### FORMABLE TAGS ###
+
+## Europe ##
+#AGF     = "countries/Anglo-Frisia.txt" ## MAY REMOVE ## 
+#BRE     = "countries/Bretonnia.txt"
+#DNB     = "countries/Danubian Federation.txt"
+#FRA     = "countries/France.txt"
+#HIS     = "countries/Hispania.txt"
+#ITA     = "countries/Italy.txt"
+#NGF     = "countries/North German Fed.txt"
+#SGF     = "countries/South German Fed.txt"
+WSR     = "countries/Weserian Federation.txt"
+
+## Asia ##
+#CHI     = "countries/China.txt"
+#PRL     = "countries/Pure Land.txt"
+
+## Americas ##
+#TAW     = "countries/Tawantinsuyu.txt"
+
+
+### RELEASABLE AND BREAKAWAY TAGS ###
 
 ## Europe ##
 
@@ -119,15 +140,12 @@ VIN     = "countries/Vinland.txt"
 #ADO     = "countries/Andorra.txt"
 #ALS     = "countries/Elsass.txt"
 #AQU     = "countries/Aquitania.txt"
-#FRA     = "countries/France.txt"  ## formable
 #HLL     = "countries/Holland.txt"
 #NRM     = "countries/Normandy.txt"
 #PRV     = "countries/Provence.txt"
 #TOL     = "countries/Toulouse.txt"
 
 # British Isles
-## MAY REMOVE ## #AGF     = "countries/Anglo-Frisia.txt"
-#BRE     = "countries/Bretonnia.txt"  ## formable
 #COR     = "countries/Cornwall.txt"
 #ENG     = "countries/England.txt"
 #IRE     = "countries/Ireland.txt"
@@ -139,14 +157,12 @@ VIN     = "countries/Vinland.txt"
 #CAT     = "countries/Catalonia.txt"
 #GLC     = "countries/Galicia.txt"
 #GRA     = "countries/Granada.txt"
-#HIS     = "countries/Hispania.txt" ## formable
 #NAV     = "countries/Navarra.txt"
 #VAL     = "countries/Valencia.txt"
 
 # Italy
 #CRS     = "countries/Corsica.txt"
 #GEN     = "countries/Genoa.txt"
-#ITA     = "countries/Italy.txt" ## formable
 #LOM     = "countries/Lombardia.txt"
 #LEO     = "countries/Leon.txt"
 #LUC     = "countries/Lucca.txt"
@@ -170,7 +186,6 @@ VIN     = "countries/Vinland.txt"
 #BAD     = "countries/Baden.txt"
 #BRA     = "countries/Braunschweig.txt"
 #BRE     = "countries/Bremen.txt"
-#DNB     = "countries/Danubian Federation.txt" ## formable
 #DZG     = "countries/Danzig.txt"
 #EAS     = "countries/Eastphalia.txt"
 #HAM     = "countries/Hamburg.txt"
@@ -180,22 +195,19 @@ VIN     = "countries/Vinland.txt"
 #LUX     = "countries/Luxemburg.txt"
 #MEC     = "countries/Mecklenburg.txt"
 #NAS     = "countries/Nassau.txt"
-#NGF     = "countries/North German Fed.txt" ## formable
 #OLD     = "countries/Oldenburg.txt"
 #RHI     = "countries/Rhineland.txt"
 #SCH     = "countries/Schleswig.txt"
-#SGF     = "countries/South German Fed.txt" ## formable
 #SLS     = "countries/Silesia.txt"
-WSR     = "countries/Weserian Federation.txt" ## formable
 #WUR     = "countries/Wurttemberg.txt"
 
 ## Asia ##
 
 # China
-#PRL     = "countries/Pure Land.txt"
+#MGL     = "countries/Mongolia.txt"
 
 ## Americas ##
 
 # South
-#TAW     = "countries/Tawantinsuyu.txt" ## formable
+#GUY     = "countries/Guyana.txt" # Occitanian part of Guiana
 #WLM     = "countries/Wallmapu.txt"
