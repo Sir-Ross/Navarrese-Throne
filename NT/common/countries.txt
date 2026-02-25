@@ -9,25 +9,30 @@ REB     = "countries/rebels.txt"
 ## Europe ##
 
 # Western
-ARN     = "countries/Aragon.txt"
-#AUS     = "countries/Austria.txt"
-#BAV     = "countries/Bavaria.txt"
-#BRA     = "countries/Brandenberg.txt"
+#AUV     = "countries/Auvergne.txt"
 #BRT     = "countries/Brittany.txt"
 #BUR     = "countries/Burgundy.txt"
+GHL     = "countries/Gaidhealand.txt" # formerly Bretonnia
 #HAN     = "countries/Hanover.txt"
 FRI     = "countries/Friesland.txt"
-GHL     = "countries/Gaidhealand.txt" # formerly Bretonnia
 #LOR     = "countries/Lorraine.txt"
 OCC     = "countries/Occitania.txt"
+#SAX     = "countries/Saxony.txt"
+
+# Southern
+ARN     = "countries/Aragon.txt"
 #PAP     = "countries/Papal States.txt"
 #PIE     = "countries/Piedmont.txt"
 #POR     = "countries/Portugal.txt"
 #SAV     = "countries/Savoy.txt"
-#SAX     = "countries/Saxony.txt"
 #SIC     = "countries/Sicily.txt"
-#SWE     = "countries/Sweden.txt"
 #VEN     = "countries/Venice.txt"
+
+# Central
+#AUS     = "countries/Austria.txt"
+#BAV     = "countries/Bavaria.txt"
+#BRA     = "countries/Brandenberg.txt"
+#SWE     = "countries/Sweden.txt"
 #WES     = "countries/Westphalia.txt"
 
 # Eastern
@@ -71,16 +76,12 @@ NOV     = "countries/Novgorod.txt"
 #PER     = "countries/Persia.txt"
 
 # South
+#CLI     = "countries/Calicut.txt"
 #HYD     = "countries/Hyderabad.txt"
+#MRT     = "countries/Marathas.txt"
 #MUG     = "countries/Mughal Empire.txt"
+#MYS     = "countries/Mysore.txt"
 #SKH     = "countries/Sikh Empire.txt"
-
-# Southeast
-#AYU     = "countries/Ayutthaya.txt"
-#CAM     = "countries/Cambodia.txt"
-#DAI     = "countries/Dai Nam.txt"
-#LNA     = "countries/Lan Na.txt"
-#LXA     = "countries/Lan Xang.txt"
 
 # East
 #ANH     = "countries/Anhui.txt" ### LIKELY TO BE REMOVED ###
@@ -95,11 +96,26 @@ SFE     = "countries/Swedish Far East.txt"
 #TOH     = "countries/Tohoku.txt" ### LIKELY TO BE REWRITTEN ###
 #XID     = "countries/Xi.txt"
 
+# Southeast
+#AYU     = "countries/Ayutthaya.txt"
+#CAM     = "countries/Cambodia.txt"
+#DAI     = "countries/Dai Nam.txt"
+#JOH     = "countries/Johor.txt"
+#LNA     = "countries/Lan Na.txt"
+#LXA     = "countries/Lan Xang.txt"
+
 # Oceania
+#ACE     = "countries/Aceh.txt"
+#BLU     = "countries/Bulungan.txt"
+#BRU     = "countries/Brunei.txt"
 #FEI     = "countries/Frisian East Indies.txt"
+#MTA     = "countries/Mataram.txt"
 #NCA     = "countries/New Caledonia.txt"
 #NCO     = "countries/New Cordoba.txt"
 #NHO     = "countries/New Holland.txt"
+#PON     = "countries/Pontianak.txt"
+#SAK     = "countries/Siak.txt"
+#TAP     = "countries/Tapanuli.txt"
 
 ## New World ##
 
