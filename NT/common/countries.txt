@@ -17,7 +17,6 @@ GHL     = "countries/Gaidhealand.txt" # formerly Bretonnia
 FRI     = "countries/Friesland.txt"
 #LOR     = "countries/Lorraine.txt"
 OCC     = "countries/Occitania.txt"
-#SAX     = "countries/Saxony.txt"
 
 # Southern
 ARN     = "countries/Aragon.txt"
@@ -29,10 +28,23 @@ ARN     = "countries/Aragon.txt"
 #VEN     = "countries/Venice.txt"
 
 # Central
+#ALS     = "countries/Elsass.txt"
 #AUS     = "countries/Austria.txt"
 #BAV     = "countries/Bavaria.txt"
 #BRA     = "countries/Brandenberg.txt"
+#DSS     = "countries/Dusseldorf.txt"
+#HES     = "countries/Hesse.txt"
+#KLN     = "countries/Koln.txt"
+#LBG     = "countries/Limburg.txt"
+#MNZ     = "countries/Mainz.txt"
+#MUN     = "countries/Munster.txt"
+#NAS     = "countries/Nassau.txt"
+#PAL     = "countries/Palatinate.txt"
+#SAA     = "countries/Saarland.txt"
+#SAX     = "countries/Saxony.txt"
+#SIM     = "countries/Simmern.txt"
 #SWE     = "countries/Sweden.txt"
+#TRI     = "countries/Trier.txt"
 #WES     = "countries/Westphalia.txt"
 
 # Eastern
@@ -59,6 +71,8 @@ NOV     = "countries/Novgorod.txt"
 
 # South
 #GSN     = "countries/Gosen.txt"
+#SOK     = "countries/Sokoto.txt"
+#XHO     = "countries/Xhosa.txt"
 
 ## Asia ##
 
@@ -76,7 +90,6 @@ NOV     = "countries/Novgorod.txt"
 #PER     = "countries/Persia.txt"
 
 # South
-#CLI     = "countries/Calicut.txt"
 #HYD     = "countries/Hyderabad.txt"
 #MRT     = "countries/Marathas.txt"
 #MUG     = "countries/Mughal Empire.txt"
@@ -91,12 +104,13 @@ NOV     = "countries/Novgorod.txt"
 #MAN     = "countries/Manchuria.txt"
 #MNG     = "countries/Ming.txt"
 SEB     = "countries/Sebastines.txt"
+#SEN     = "countries/Sendai.txt" # formerly Tohoku
 SFE     = "countries/Swedish Far East.txt"
 #SHU     = "countries/Shun.txt"
-#TOH     = "countries/Tohoku.txt" ### LIKELY TO BE REWRITTEN ###
 #XID     = "countries/Xi.txt"
 
 # Southeast
+#ASM     = "countries/Assam.txt"
 #AYU     = "countries/Ayutthaya.txt"
 #CAM     = "countries/Cambodia.txt"
 #DAI     = "countries/Dai Nam.txt"
@@ -115,7 +129,6 @@ SFE     = "countries/Swedish Far East.txt"
 #NHO     = "countries/New Holland.txt"
 #PON     = "countries/Pontianak.txt"
 #SAK     = "countries/Siak.txt"
-#TAP     = "countries/Tapanuli.txt"
 
 ## New World ##
 
@@ -167,12 +180,14 @@ WSR     = "countries/Weserian Federation.txt"
 
 # Western
 #ADO     = "countries/Andorra.txt"
-#ALS     = "countries/Elsass.txt"
 #AQU     = "countries/Aquitania.txt"
 #HLL     = "countries/Holland.txt"
 #NRM     = "countries/Normandy.txt"
 #PRV     = "countries/Provence.txt"
 #TOL     = "countries/Toulouse.txt"
+
+# Central
+#DRM     = "countries/Darmstadt.txt"
 
 # British Isles
 #COR     = "countries/Cornwall.txt"
@@ -237,6 +252,12 @@ WSR     = "countries/Weserian Federation.txt"
 
 # China
 #MGL     = "countries/Mongolia.txt"
+
+# India
+#CLI     = "countries/Calicut.txt"
+
+# Oceania
+#TAP     = "countries/Tapanuli.txt"
 
 ## Americas ##
 
