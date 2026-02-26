@@ -20,11 +20,14 @@ OCC     = "countries/Occitania.txt"
 
 # Southern
 ARN     = "countries/Aragon.txt"
+#BER     = "countries/Bern.txt"
 #PAP     = "countries/Papal States.txt"
 #PIE     = "countries/Piedmont.txt"
 #POR     = "countries/Portugal.txt"
-#SAV     = "countries/Savoy.txt"
 #SIC     = "countries/Sicily.txt"
+#SVY     = "countries/Savoy.txt"
+#TLG     = "countries/Three Leagues.txt"
+#VAL     = "countries/Valais.txt"
 #VEN     = "countries/Venice.txt"
 
 # Central
@@ -183,6 +186,7 @@ VIN     = "countries/Vinland.txt"
 #NGF     = "countries/North German Fed.txt"
 #RHI     = "countries/Rhineland.txt"
 #SGF     = "countries/South German Fed.txt"
+#SWI     = "countries/Switzerland.txt"
 #WES     = "countries/Westphalia.txt"
 WSR     = "countries/Weserian Federation.txt"
 
