@@ -1,9 +1,7 @@
-owner = TRI
-controller = TRI
+owner = TUN
+controller = TUN
+add_core = TUN
 add_core = TRI
 trade_goods = fruit
 life_rating = 35
-owner = SIC
-controller = SIC
-add_core = SIC
-1861.1.1 = { owner = TUR controller = TUR colonial = 0 } 
+terrain = desert_hills

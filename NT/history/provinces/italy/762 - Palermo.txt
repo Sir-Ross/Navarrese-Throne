@@ -1,15 +1,18 @@
-owner = SIC
-controller = SIC
+owner = ARA
+controller = ARA
+add_core = ARA
+#add_core = ITA
 add_core = SIC
-add_core = ITA
-trade_goods = fish
+trade_goods = fruit
 life_rating = 35
-owner = SIC
-controller = SIC
-add_core = SIC
-1861.1.1 = { 
-    controller = ITA
-    owner = ITA
-    add_core = ITA
-    naval_base = 1
+terrain = hilly_farmland
+state_building = {
+	level = 2
+	building = gunpowder_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = explosives_factory
+	upgrade = yes
 }

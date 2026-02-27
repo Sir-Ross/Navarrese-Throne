@@ -1,0 +1,7 @@
+add_core = PPU
+trade_goods = tropical_wood
+life_rating = 10
+terrain = jungle
+owner = FRI
+controller = FRI
+add_core = FRI

@@ -1,0 +1,6 @@
+owner = ARN
+controller = ARN
+trade_goods = precious_metal
+life_rating = 35
+terrain = seasonal_jungle
+add_core = ARN

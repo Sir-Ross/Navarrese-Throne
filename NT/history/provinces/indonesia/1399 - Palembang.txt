@@ -1,0 +1,8 @@
+owner = FRI
+controller = FRI
+add_core = PLM
+add_core = NUS
+trade_goods = spices
+life_rating = 30
+terrain = jungle_farmland
+add_core = FRI

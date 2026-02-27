@@ -1,7 +1,8 @@
-owner = BRT
-controller = BRT
-add_core = BRT
+owner = DUA
+controller = DUA
+add_core = DUA
+add_core = ENL
 trade_goods = grain
 life_rating = 35
+terrain = good_farmland
 fort = 1
-1861.1.1 = { railroad = 3 } 

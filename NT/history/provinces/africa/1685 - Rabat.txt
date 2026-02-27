@@ -1,6 +1,8 @@
 owner = POR
 controller = POR
-add_core = MOR
+add_core = FEZ
 trade_goods = grain
 life_rating = 35
+colonial = 1
+terrain = forested_farmland
 add_core = POR

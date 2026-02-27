@@ -1,0 +1,8 @@
+owner = SWE
+add_core = ICL
+trade_goods = fish
+life_rating = 15
+terrain = tundra_mountains
+colonial = 1
+conroller = SWE
+add_core = SWE

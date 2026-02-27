@@ -1,0 +1,8 @@
+owner = OCC
+controller = OCC
+add_core = DUA
+add_core = FRA
+trade_goods = cattle
+life_rating = 34
+terrain = hilly_farmland
+add_core = OCC

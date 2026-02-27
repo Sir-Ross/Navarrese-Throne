@@ -1,6 +1,8 @@
 owner = OCC
 controller = OCC
+add_core = DUA
 add_core = OCC
 trade_goods = cattle
-life_rating = 31
-1861.1.1 = { railroad = 3 } 
+life_rating = 33
+terrain = deciduous_forest_hills
+add_core = OCC

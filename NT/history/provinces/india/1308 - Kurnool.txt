@@ -1,7 +1,10 @@
-owner = ARN
-controller = ARN
-add_core = ARN
-add_core = HND
+owner = VIJ
+controller = VIJ
+add_core = VIJ
+add_core = TRA
+add_core = HYD
+add_core = ADR
+add_core = DRA
 trade_goods = tea
 life_rating = 32
-colonial = 2
+terrain = hilly_grassland

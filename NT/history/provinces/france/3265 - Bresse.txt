@@ -1,0 +1,8 @@
+owner = BUR
+controller = BUR
+add_core = SAR
+add_core = GNV
+trade_goods = coal
+life_rating = 34
+terrain = deciduous_forest_mountains
+add_core = BUR

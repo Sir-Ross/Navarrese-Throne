@@ -1,0 +1,10 @@
+owner = FRI
+controller = FRI
+add_core = NET
+add_core = BRG
+trade_goods = cattle
+life_rating = 40
+terrain = good_farmland
+add_core = FRI
+state_building = { level = 1 building = fabric_factory upgrade = yes } 
+state_building = { level = 2 building = canned_food_factory upgrade = yes } 

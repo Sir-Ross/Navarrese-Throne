@@ -1,8 +1,7 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = EGY
+controller = EGY
+add_core = EGY
 trade_goods = fish
 life_rating = 35
-owner = SIC
-controller = SIC
-add_core = SIC
+terrain = hilly_grassland
+add_core = CYR

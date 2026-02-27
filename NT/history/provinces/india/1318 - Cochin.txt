@@ -1,6 +1,10 @@
-owner = BRE
-controller = BRE
-add_core = BRE
+owner = BRG
+controller = BRG
+add_core = DRA
 add_core = TRA
-trade_goods = grain
-life_rating = 32
+#add_core = VIJ
+trade_goods = tea
+life_rating = 30
+terrain = seasonal_jungle_hills
+colonial = 1
+naval_base = 1

@@ -1,6 +1,7 @@
-owner = ARN
-controller = ARN
-add_core = ARN
+owner = ALJ
+controller = ALJ
+add_core = ALJ
 trade_goods = wool
 life_rating = 35
-1861.1.1 = { owner = FRA controller = FRA colonial = 2 } 
+terrain = desert_hills
+

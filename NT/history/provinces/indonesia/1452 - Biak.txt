@@ -1,6 +1,11 @@
 owner = POR
 controller = POR
-trade_goods = fish
+add_core = VOC
+add_core = TER
+add_core = MLC
+add_core = NUS
+trade_goods = spices
 life_rating = 30
-colonial = 2
+terrain = jungle_hills
+colonial = 1
 add_core = POR

@@ -1,0 +1,9 @@
+owner = FRI
+controller = FRI
+add_core = BRG
+trade_goods = fish
+life_rating = 35
+terrain = good_farmland
+naval_base = 2
+fort = 2
+add_core = FRI

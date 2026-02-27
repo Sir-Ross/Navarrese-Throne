@@ -1,7 +1,8 @@
-owner = POR
-controller = POR
-add_core = PHI
-trade_goods = fish
+owner = SUL
+controller = SUL
+add_core = SUL
+add_core = MNL
+add_core = NUS
+trade_goods = spices
 life_rating = 30
-colonial = 2
-add_core = POR
+terrain = jungle_farmland

@@ -1,5 +1,6 @@
-owner = ARN
-controller = ARN
-add_core = ARN
+owner = ALJ
+controller = ALJ
+add_core = ALJ
 trade_goods = fruit
 life_rating = 35
+terrain = desert_hills

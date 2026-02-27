@@ -1,6 +1,9 @@
-owner = BRE
-controller = BRE
-add_core = BRE
-add_core = HND
-trade_goods = silk
-life_rating = 32
+owner = TRA
+controller = TRA
+add_core = MYS
+add_core = DRA
+#add_core = VIJ
+add_core = TRA
+trade_goods = tea
+life_rating = 35
+terrain = hilly_grassland

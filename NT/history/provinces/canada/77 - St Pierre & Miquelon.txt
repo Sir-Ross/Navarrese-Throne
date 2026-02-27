@@ -1,6 +1,7 @@
-owner = BRE
-controller = BRE
+owner = CFS
+controller = CFS
+add_core = NBG
+add_core = CFS
 trade_goods = fish
 life_rating = 35
-colonial = 2
-add_core = BRE
+terrain = forested_farmland

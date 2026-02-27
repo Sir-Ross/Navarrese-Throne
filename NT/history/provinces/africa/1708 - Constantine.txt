@@ -1,9 +1,7 @@
-owner = ALD
-controller = ALD
-add_core = ALD
-trade_goods = iron
+owner = ARA
+controller = KBL
+add_core = KBL
+trade_goods = grain
 life_rating = 35
-owner = SIC
-controller = SIC
-add_core = SIC
-1861.1.1 = { owner = FRA controller = FRA colonial = 2 } 
+colonial = 2
+terrain = mountain_farmland

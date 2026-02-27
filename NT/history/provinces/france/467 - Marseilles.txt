@@ -1,0 +1,10 @@
+owner = OCC
+controller = OCC
+add_core = PRV
+add_core = OCC
+trade_goods = fish
+life_rating = 36
+terrain = marginal_farmland
+naval_base = 1
+add_core = OCC
+state_building = { level = 4 building = clipper_shipyard upgrade = yes } 

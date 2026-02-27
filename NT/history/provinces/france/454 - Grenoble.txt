@@ -1,0 +1,10 @@
+owner = BUR
+controller = BUR
+add_core = DUA
+add_core = PRV
+add_core = GNV
+add_core = OCC
+trade_goods = tobacco
+life_rating = 35
+terrain = deciduous_forest_mountains
+add_core = BUR

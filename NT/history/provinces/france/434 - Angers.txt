@@ -1,6 +1,9 @@
 owner = BRT
 controller = BRT
+add_core = DUA
+add_core = FRA
+trade_goods = sugar
+life_rating = 35
+terrain = marginal_farmland
 add_core = BRT
-trade_goods = fruit
-life_rating = 30
-1861.1.1 = { railroad = 3 } 
+state_building = { level = 1 building = stables upgrade = yes } 

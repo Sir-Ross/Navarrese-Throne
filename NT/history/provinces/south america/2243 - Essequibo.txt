@@ -1,0 +1,17 @@
+owner = SPA
+controller = SPA
+
+colonial = 2
+add_core = CAS
+add_core = SAN
+trade_goods = fruit
+life_rating = 30
+terrain = swamp_jungle
+          
+
+
+
+ 
+
+
+

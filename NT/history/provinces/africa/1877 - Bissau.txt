@@ -1,0 +1,7 @@
+owner = OCC
+controller = OCC
+add_core = FJA
+trade_goods = grain
+life_rating = 35
+terrain = swamp_jungle
+add_core = OCC

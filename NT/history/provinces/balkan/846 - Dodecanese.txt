@@ -4,6 +4,4 @@ add_core = TUR
 add_core = GRE
 trade_goods = grain
 life_rating = 35
-owner = SIC
-controller = SIC
-add_core = SIC
+terrain = small_island

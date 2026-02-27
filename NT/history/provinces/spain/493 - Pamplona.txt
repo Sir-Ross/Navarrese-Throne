@@ -1,6 +1,7 @@
 owner = OCC
 controller = OCC
-add_core = OCC
-trade_goods = fruit
+add_core = NAV
+trade_goods = iron
 life_rating = 35
-1861.1.1 = { railroad = 3 } 
+terrain = mountain_farmland
+add_core = OCC

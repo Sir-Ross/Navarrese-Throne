@@ -1,6 +1,6 @@
-owner = POR
-controller = POR
-add_core = MOR
+owner = SUS
+controller = SUS
+add_core = SUS
 trade_goods = grain
 life_rating = 35
-add_core = POR
+terrain = semi_desert_mountains

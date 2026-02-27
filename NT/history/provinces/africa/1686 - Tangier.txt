@@ -1,5 +1,9 @@
 owner = ARN
 controller = ARN
-add_core = ARN
+add_core = RIF
+add_core = SPA
 trade_goods = grain
 life_rating = 35
+colonial = 2
+terrain = hilly_farmland
+add_core = ARN

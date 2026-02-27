@@ -1,7 +1,8 @@
 owner = POR
 controller = POR
+add_core = SPA
 add_core = POR
 trade_goods = fruit
 life_rating = 35
-naval_base = 1
+terrain = mountain_farmland
 add_core = POR

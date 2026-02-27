@@ -1,0 +1,6 @@
+trade_goods = coffee
+life_rating = 15
+terrain = jungle
+owner = OCC
+controller = OCC
+add_core = OCC

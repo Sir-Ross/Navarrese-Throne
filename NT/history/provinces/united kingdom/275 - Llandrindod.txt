@@ -1,6 +1,8 @@
-owner = BRE
-controller = BRE
-add_core = BRE
+owner = DUA
+controller = DUA
+add_core = DUA
+add_core = ENL
+add_core = WLS
 trade_goods = sulphur
 life_rating = 35
-1861.1.1 = { railroad = 3 } 
+terrain = hills

@@ -1,5 +1,10 @@
-trade_goods = grain
-life_rating = 15
 owner = POR
 controller = POR
+add_core = SUL
+add_core = BRI
+add_core = BLG
+add_core = NUS
+trade_goods = spices
+life_rating = 15
+terrain = jungle_farmland
 add_core = POR

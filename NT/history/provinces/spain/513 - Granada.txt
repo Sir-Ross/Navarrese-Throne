@@ -1,6 +1,11 @@
 owner = ARN
 controller = ARN
-add_core = ARN
-trade_goods = iron
+add_core = SPA
+add_core = ANA
+trade_goods = grain
 life_rating = 35
-1861.1.1 = { railroad = 3 } 
+terrain = dry_forest_mountains
+add_core = ARN
+state_building = { level = 2 building = canned_food_factory upgrade = yes } 
+state_building = { level = 2 building = cement_factory upgrade = yes } 
+state_building = { level = 1 building = machine_parts_factory upgrade = yes } 

@@ -1,5 +1,8 @@
 owner = OCC
 controller = OCC
-trade_goods = cotton
+add_core = ATS
+trade_goods = sugar
 life_rating = 35
+terrain = small_island
 colonial = 2
+add_core = OCC

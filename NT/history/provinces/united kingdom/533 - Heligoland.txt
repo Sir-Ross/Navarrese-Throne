@@ -1,0 +1,9 @@
+owner = FRI
+controller = FRI
+add_core = SCA
+add_core = HOL
+add_core = GER
+trade_goods = fish
+life_rating = 35
+terrain = small_island
+add_core = FRI

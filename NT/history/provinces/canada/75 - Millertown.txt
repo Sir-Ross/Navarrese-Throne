@@ -1,7 +1,7 @@
-owner = BRE
-controller = BRE
-add_core = BRE
-add_core = NEW
+owner = MSG
+controller = MSG
+add_core = MSG
+add_core = VIN
 trade_goods = iron
 life_rating = 35
-colonial = 2
+terrain = conifer_forest_hills

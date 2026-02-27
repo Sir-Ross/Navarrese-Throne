@@ -1,9 +1,8 @@
-owner = TUN
-controller = TUN
+owner = ARA
+controller = ARA
+add_core = ARA
 add_core = TUN
-trade_goods = grain
+terrain = marginal_farmland
+trade_goods = lead
 life_rating = 35
-owner = SIC
-controller = SIC
-add_core = SIC
-1861.1.1 = { owner = TUR controller = TUR colonial = 2 } 
+colonial = 2

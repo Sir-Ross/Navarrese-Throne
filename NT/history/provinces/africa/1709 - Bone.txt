@@ -1,9 +1,7 @@
-owner = FRA
-controller = FRA
-add_core = ALD
+owner = ARA
+controller = KBL
+add_core = ARA
+add_core = KBL
 trade_goods = grain
 life_rating = 35
-colonial = 2
-owner = SIC
-controller = SIC
-add_core = SIC
+terrain = hilly_farmland

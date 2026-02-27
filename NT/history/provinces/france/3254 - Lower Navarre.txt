@@ -1,0 +1,7 @@
+owner = OCC
+controller = OCC
+add_core = NAV
+trade_goods = copper
+life_rating = 35
+terrain = deciduous_forest_mountains
+add_core = OCC

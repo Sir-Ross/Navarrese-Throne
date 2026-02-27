@@ -1,0 +1,6 @@
+owner = ARN
+controller = ARN
+trade_goods = fish
+life_rating = 20
+terrain = seasonal_jungle
+add_core = ARN

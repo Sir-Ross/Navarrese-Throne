@@ -1,8 +1,7 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = EGY
+controller = EGY
+add_core = EGY
 trade_goods = grain
 life_rating = 35
-owner = SIC
-controller = SIC
-add_core = SIC
+terrain = semi_desert
+add_core = CYR

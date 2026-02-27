@@ -1,6 +1,8 @@
 owner = POR
 controller = POR
 add_core = POR
-trade_goods = fruit
+add_core = SPA
+trade_goods = fish
 life_rating = 35
+terrain = hilly_farmland
 add_core = POR

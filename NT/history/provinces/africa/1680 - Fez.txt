@@ -1,6 +1,7 @@
-owner = POR
-controller = POR
-add_core = MOR
+owner = ARN
+controller = ARN
+add_core = FEZ
 trade_goods = grain
 life_rating = 35
-add_core = POR
+terrain = hilly_grassland
+add_core = ARN

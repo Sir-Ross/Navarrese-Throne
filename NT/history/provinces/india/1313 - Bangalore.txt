@@ -1,6 +1,9 @@
-owner = BRE
-controller = BRE
-add_core = BRE
-add_core = HND
+owner = TRA
+controller = TRA
+add_core = MYS
+add_core = DRA
+#add_core = VIJ
+add_core = TRA
 trade_goods = wool
-life_rating = 32
+life_rating = 30
+terrain = dry_grassland

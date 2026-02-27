@@ -1,6 +1,8 @@
-owner = BRE
-controller = BRE
-add_core = BRE
-trade_goods = iron
+owner = DUA
+controller = DUA
+add_core = DUA
+add_core = ENL
+add_core = WLS
+trade_goods = coal
 life_rating = 35
-1861.1.1 = { railroad = 3 } 
+terrain = hilly_farmland

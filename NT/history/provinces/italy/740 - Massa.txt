@@ -1,0 +1,8 @@
+owner = OCC
+controller = OCC
+add_core = PRV
+add_core = OCC
+trade_goods = timber
+life_rating = 35
+terrain = deciduous_forest_hills
+add_core = OCC

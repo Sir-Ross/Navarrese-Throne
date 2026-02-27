@@ -1,0 +1,11 @@
+owner = FRI
+controller = FRI
+add_core = PLA
+add_core = LOU
+trade_goods = sugar
+life_rating = 35
+terrain = small_island
+naval_base = 1
+fort = 1
+add_core = FRI
+1861.1.1 = { naval_base = 2 fort = 2 } 

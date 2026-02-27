@@ -1,7 +1,9 @@
-owner = BRE
-controller = BRE
-add_core = BRE
-add_core = HND
-trade_goods = fruit
+owner = TRA
+controller = TRA
+add_core = MYS
+add_core = DRA
+#add_core = VIJ
+add_core = TRA
+trade_goods = spices
 life_rating = 32
-colonial = 2
+terrain = seasonal_jungle_hills
