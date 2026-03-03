@@ -1,8 +1,9 @@
-owner = LOM
-controller = LOM
+owner = VEN
+controller = VEN
 add_core = LOM
 add_core = MAN
 add_core = ITA
 trade_goods = cattle
 life_rating = 36
 terrain = floodplain_farmland
+add_core = VEN

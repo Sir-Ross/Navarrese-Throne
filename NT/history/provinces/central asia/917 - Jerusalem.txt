@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = EGY
+controller = EGY
 add_core = EGY
 add_core = TUR
 add_core = PLS
@@ -7,3 +7,4 @@ add_core = SYR
 trade_goods = grain
 life_rating = 35
 terrain = hilly_grassland
+add_core = EGY

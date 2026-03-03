@@ -1,5 +1,5 @@
-owner = PAG
-controller = PAG
+owner = FRI
+controller = FRI
 add_core = PAG
 add_core = NUS
 trade_goods = tobacco

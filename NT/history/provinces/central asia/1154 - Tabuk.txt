@@ -1,8 +1,9 @@
-owner = HDJ
-controller = HDJ
+owner = KHL
+controller = KHL
 add_core = HDJ
 add_core = NEJ
 add_core = TUR
 trade_goods = wool
 life_rating = 5
 terrain = desert_hills
+add_core = KHL

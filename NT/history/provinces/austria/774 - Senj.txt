@@ -1,7 +1,8 @@
-owner = VEN
-controller = VEN
+owner = HUN
+controller = HUN
 add_core = CRO
 add_core = YUG
 trade_goods = iron
 life_rating = 36
 terrain = deciduous_forest_mountains
+add_core = HUN

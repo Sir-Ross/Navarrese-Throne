@@ -6,3 +6,6 @@ trade_goods = coal
 life_rating = 35
 terrain = hilly_farmland
 fort = 2
+owner = GHL
+controller = GHL
+add_core = GHL

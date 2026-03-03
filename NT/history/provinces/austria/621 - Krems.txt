@@ -5,3 +5,4 @@ add_core = GER
 trade_goods = grain
 life_rating = 32
 terrain = hilly_farmland
+add_core = AUS

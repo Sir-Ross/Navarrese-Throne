@@ -6,3 +6,4 @@ add_core = OCC
 trade_goods = copper
 life_rating = 34
 terrain = deciduous_forest_hills
+add_core = AUV

@@ -6,3 +6,6 @@ trade_goods = fruit
 life_rating = 35
 terrain = marginal_farmland
 naval_base = 2
+owner = GHL
+controller = GHL
+add_core = GHL

@@ -1,7 +1,8 @@
-owner = LOM
-controller = LOM
+owner = VEN
+controller = VEN
 add_core = LOM
 add_core = ITA
 trade_goods = cattle
 life_rating = 40
 terrain = deciduous_forest_mountains
+add_core = VEN

@@ -1,9 +1,8 @@
-owner = CRO
-controller = CRO
-
+owner = HUN
+controller = HUN
 add_core = CRO
-
 add_core = YUG
 trade_goods = timber
 life_rating = 32
 terrain = forested_farmland
+add_core = HUN

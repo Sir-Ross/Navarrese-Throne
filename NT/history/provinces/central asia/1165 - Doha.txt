@@ -1,7 +1,8 @@
-owner = ABU
-controller = ABU
+owner = OMA
+controller = OMA
 add_core = ABU
 add_core = NEJ
 trade_goods = grain
 life_rating = 35
 terrain = desert
+add_core = OMA

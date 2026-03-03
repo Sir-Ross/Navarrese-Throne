@@ -1,7 +1,8 @@
-owner = PAT
-controller = PAT
+owner = AYU
+controller = AYU
 add_core = PAT
 add_core = NUS
 trade_goods = tobacco
 life_rating = 30
 terrain = jungle_farmland
+add_core = AYU

@@ -1,5 +1,5 @@
-owner = FIU
-controller = FIU 
+owner = HUN
+controller = HUN
 add_core = FIU
 add_core = VEN
 add_core = CRO
@@ -7,3 +7,4 @@ add_core = YUG
 trade_goods = fruit
 life_rating = 38
 terrain = deciduous_forest_hills
+add_core = HUN

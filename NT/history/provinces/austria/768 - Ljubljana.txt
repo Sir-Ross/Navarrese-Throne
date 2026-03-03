@@ -1,5 +1,5 @@
-owner = AUS
-controller = AUS
+owner = HUN
+controller = HUN
 add_core = SLO
 add_core = AUS
 add_core = CRN
@@ -8,4 +8,4 @@ add_core = YUG
 trade_goods = cotton
 life_rating = 31
 terrain = deciduous_forest_hills
-
+add_core = HUN

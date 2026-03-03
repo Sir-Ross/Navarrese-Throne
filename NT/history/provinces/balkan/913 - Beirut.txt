@@ -1,7 +1,8 @@
-owner = TUR
-controller = TUR
+owner = EGY
+controller = EGY
 add_core = SYR
 add_core = TUR
 trade_goods = fish
 life_rating = 35
 terrain = dry_forest_mountains
+add_core = EGY

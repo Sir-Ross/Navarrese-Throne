@@ -1,9 +1,8 @@
-owner = CRO
-controller = CRO
-
+owner = HUN
+controller = HUN
 add_core = CRO
-
 add_core = YUG
 trade_goods = fruit
 life_rating = 38
 terrain = deciduous_forest_hills
+add_core = HUN

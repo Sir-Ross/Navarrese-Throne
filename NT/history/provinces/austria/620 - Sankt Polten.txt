@@ -5,3 +5,4 @@ add_core = GER
 trade_goods = copper
 life_rating = 30
 terrain = deciduous_forest_mountains
+add_core = AUS

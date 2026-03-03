@@ -5,9 +5,6 @@ add_core = CRN
 add_core = GER
 trade_goods = coal
 life_rating = 32
-terrain = conifer_forest_hills    
-state_building = {
-	level = 2
-	building = cement_factory
-	upgrade = yes
-}
+terrain = conifer_forest_hills
+add_core = AUS
+state_building = { level = 2 building = cement_factory upgrade = yes } 

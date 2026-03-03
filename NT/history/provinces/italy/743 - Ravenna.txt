@@ -1,7 +1,8 @@
-owner = FRR
-controller = FRR
+owner = SIC
+controller = SIC
 add_core = FRR
 add_core = ITA
 trade_goods = wool
 life_rating = 35
 terrain = good_farmland
+add_core = SIC

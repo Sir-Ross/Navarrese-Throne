@@ -1,7 +1,8 @@
-owner = CAM
-controller = CAM
-#add_core = SIA
+owner = AYU
+controller = AYU
+# add_core = SIA
 add_core = CAM
 trade_goods = opium
 life_rating = 30
 terrain = dry_forest_hills
+add_core = AYU

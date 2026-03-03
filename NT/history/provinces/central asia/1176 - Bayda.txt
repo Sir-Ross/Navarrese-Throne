@@ -1,7 +1,8 @@
-owner = YEM
-controller = YEM
+owner = OMA
+controller = OMA
 add_core = YEM
 add_core = NEJ
 trade_goods = fish
 life_rating = 35
 terrain = semi_desert_mountains
+add_core = OMA

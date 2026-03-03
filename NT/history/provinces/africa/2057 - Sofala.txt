@@ -6,3 +6,6 @@ terrain = seasonal_jungle
 colonial = 1
 add_core = ZIM
 naval_base = 1
+owner = GHL
+controller = GHL
+add_core = GHL

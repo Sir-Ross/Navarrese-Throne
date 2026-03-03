@@ -1,7 +1,8 @@
-owner = CHP
-controller = CHP
+owner = CAM
+controller = CAM
 add_core = CAM
 add_core = CHP
 trade_goods = opium
 life_rating = 30
 terrain = floodplain_farmland
+add_core = CAM

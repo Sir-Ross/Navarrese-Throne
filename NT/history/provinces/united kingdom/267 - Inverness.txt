@@ -6,3 +6,6 @@ trade_goods = sulphur
 life_rating = 32
 terrain = mountain
 naval_base = 1
+owner = GHL
+controller = GHL
+add_core = GHL

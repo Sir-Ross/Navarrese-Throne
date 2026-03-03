@@ -1,8 +1,8 @@
-owner = DAX
-controller = DAX   
+owner = LNA
+controller = LNA
 add_core = DAX
 add_core = CHI
-
 trade_goods = horses
 life_rating = 31
 terrain = conifer_forest_mountains
+add_core = LNA

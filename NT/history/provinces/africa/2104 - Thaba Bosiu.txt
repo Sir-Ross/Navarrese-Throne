@@ -5,3 +5,6 @@ add_core = BTV
 trade_goods = grain
 life_rating = 35
 terrain = mountain_farmland
+owner = GHL
+controller = GHL
+add_core = GHL

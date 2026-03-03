@@ -1,5 +1,5 @@
-owner = AUS
-controller = AUS
+owner = HUN
+controller = HUN
 add_core = SLO
 add_core = AUS
 add_core = CRN
@@ -8,10 +8,5 @@ add_core = YUG
 trade_goods = timber
 life_rating = 32
 terrain = deciduous_forest_hills
-
-state_building = {
-	level = 2
-	building = lumber_mill
-	upgrade = yes
-}
-
+add_core = HUN
+state_building = { level = 2 building = lumber_mill upgrade = yes } 

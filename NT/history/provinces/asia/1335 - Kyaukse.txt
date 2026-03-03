@@ -1,6 +1,7 @@
-owner = BUR
-controller = BUR
+owner = LNA
+controller = LNA
 add_core = BUR
 trade_goods = opium
 life_rating = 35
 terrain = dry_grassland
+add_core = LNA

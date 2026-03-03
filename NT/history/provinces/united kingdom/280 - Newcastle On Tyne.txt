@@ -5,18 +5,9 @@ add_core = ENL
 trade_goods = iron
 life_rating = 35
 terrain = marginal_farmland
-state_building = {
-level = 2
-building = steel_factory
-upgrade = yes
-}
-state_building = {
-level = 2
-building = canned_food_factory
-upgrade = yes
-}
-state_building = {
-level = 2
-building = clipper_shipyard
-upgrade = yes
-}
+owner = GHL
+controller = GHL
+add_core = GHL
+state_building = { level = 2 building = steel_factory upgrade = yes } 
+state_building = { level = 2 building = canned_food_factory upgrade = yes } 
+state_building = { level = 2 building = clipper_shipyard upgrade = yes } 

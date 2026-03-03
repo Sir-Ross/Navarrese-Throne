@@ -5,24 +5,8 @@ add_core = GER
 trade_goods = sulphur
 life_rating = 30
 terrain = hilly_farmland
-
-state_building = {
-	level = 2
-	building = fertilizer_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2 
-	building = bronze_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2 
-	building = gunpowder_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2
-	building = canned_food_factory
-	upgrade = yes
-}
+add_core = AUS
+state_building = { level = 2 building = fertilizer_factory upgrade = yes } 
+state_building = { level = 2 building = bronze_factory upgrade = yes } 
+state_building = { level = 2 building = gunpowder_factory upgrade = yes } 
+state_building = { level = 2 building = canned_food_factory upgrade = yes } 

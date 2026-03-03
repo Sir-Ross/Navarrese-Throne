@@ -1,7 +1,8 @@
-owner = ARA
-controller = KBL
+owner = SIC
+controller = SIC
 add_core = ARA
 add_core = KBL
 trade_goods = grain
 life_rating = 35
 terrain = hilly_farmland
+add_core = SIC

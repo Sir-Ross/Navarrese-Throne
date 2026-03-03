@@ -1,6 +1,7 @@
-owner = BUR
-controller = BUR
+owner = LNA
+controller = LNA
 add_core = BUR
 trade_goods = grain
 life_rating = 30
 terrain = good_farmland
+add_core = LNA

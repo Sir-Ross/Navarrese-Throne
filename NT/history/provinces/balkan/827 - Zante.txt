@@ -1,8 +1,9 @@
-owner = VEN
-controller = VEN
+owner = SIC
+controller = SIC
 add_core = VEN
 add_core = GRE
 add_core = TUR
 trade_goods = fish
 life_rating = 35
 terrain = small_island
+add_core = SIC

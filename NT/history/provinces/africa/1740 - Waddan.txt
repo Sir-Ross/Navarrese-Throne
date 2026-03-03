@@ -1,7 +1,8 @@
-owner = TUN
-controller = TUN
+owner = SIC
+controller = SIC
 add_core = TUN
 trade_goods = wool
 life_rating = 15
 terrain = desert
 add_core = TRI
+add_core = SIC

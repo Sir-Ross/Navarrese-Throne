@@ -5,3 +5,6 @@ life_rating = 35
 terrain = marsh
 colonial = 1
 add_core = ZIM
+owner = GHL
+controller = GHL
+add_core = GHL

@@ -1,7 +1,8 @@
-owner = TUR
-controller = TUR
+owner = EGY
+controller = EGY
 add_core = SYR
 add_core = TUR
 trade_goods = sugar
 life_rating = 35
 terrain = desert
+add_core = EGY

@@ -1,8 +1,9 @@
-owner = BUR
-controller = BUR
+owner = ASM
+controller = ASM
 add_core = HND
 add_core = BUR
 add_core = ASM
 trade_goods = tea
 life_rating = 30
 terrain = floodplain_farmland
+add_core = ASM

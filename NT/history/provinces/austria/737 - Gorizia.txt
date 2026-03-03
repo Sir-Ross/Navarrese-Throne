@@ -1,5 +1,5 @@
-owner = VEN
-controller = VEN
+owner = AUS
+controller = AUS
 add_core = VEN
 add_core = FIU
 add_core = SLO
@@ -7,3 +7,4 @@ add_core = YUG
 trade_goods = grain
 life_rating = 33
 terrain = hilly_farmland
+add_core = AUS

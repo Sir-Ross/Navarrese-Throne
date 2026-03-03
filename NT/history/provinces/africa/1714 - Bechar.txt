@@ -1,6 +1,3 @@
-owner = ALJ
-controller = ALJ
-add_core = ALJ
 trade_goods = lead
 life_rating = 10
 terrain = desert
