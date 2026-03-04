@@ -28,6 +28,7 @@ ARN     = "countries/Aragon.txt"
 #SVY     = "countries/Savoy.txt"
 #TLG     = "countries/Three Leagues.txt"
 #VAL     = "countries/Valais.txt"
+#VAU     = "countries/Vaud.txt"
 #VEN     = "countries/Venice.txt"
 
 # Central
