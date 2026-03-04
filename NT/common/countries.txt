@@ -58,7 +58,6 @@ ARN     = "countries/Aragon.txt"
 #SAX     = "countries/Saxony.txt"
 #SIM     = "countries/Simmern.txt"
 #SWA     = "countries/Swabia.txt"
-#SWG     = "countries/Schwarzburg.txt"
 #THU     = "countries/Thuringia.txt"
 #TRI     = "countries/Trier.txt"
 #WRZ     = "countries/Wurzburg.txt"
@@ -213,6 +212,7 @@ WSR     = "countries/Weserian Federation.txt"
 
 # Central
 #DRM     = "countries/Darmstadt.txt"
+#SWG     = "countries/Schwarzburg.txt"
 
 # British Isles
 #COR     = "countries/Cornwall.txt"
