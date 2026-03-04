@@ -152,7 +152,7 @@ SFE     = "countries/Swedish Far East.txt"
 ## New World ##
 
 # North America
-#ALN     = "countries/Alba Nuadh.txt"
+ALN     = "countries/Alba Nuadh.txt"
 NCU     = "countries/New Cuba.txt"
 NFR     = "countries/New Frisia.txt"
 NLE     = "countries/New Leon.txt"
