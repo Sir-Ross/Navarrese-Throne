@@ -1,6 +1,3 @@
-owner = ASK
-controller = ASK
-add_core = ASK
 trade_goods = wool
 life_rating = 35
 terrain = dry_grassland

@@ -1,6 +1,6 @@
-owner = MCH
-controller = MCH
-add_core = MCH
 trade_goods = cattle
 life_rating = 35
 terrain = conifer_forest_hills
+owner = NOV
+controller = NOV
+add_core = NOV

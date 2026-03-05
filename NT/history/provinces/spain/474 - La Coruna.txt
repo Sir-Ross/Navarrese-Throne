@@ -1,10 +1,4 @@
-owner = POR
-controller = POR
-add_core = POR
-add_core = GAL
-add_core = SPA
 trade_goods = fish
 life_rating = 35
 terrain = forested_farmland
 naval_base = 1
-add_core = POR

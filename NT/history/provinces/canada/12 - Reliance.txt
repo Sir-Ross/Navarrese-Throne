@@ -1,6 +1,6 @@
-owner = HHR
-controller = HHR
-add_core = HHR
 trade_goods = timber
 life_rating = 35
 terrain = conifer_forest
+owner = NUN
+controller = NUN
+add_core = NUN

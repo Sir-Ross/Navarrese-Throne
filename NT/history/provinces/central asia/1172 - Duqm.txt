@@ -1,8 +1,3 @@
-add_core = OMA
-add_core = NEJ
 trade_goods = fish
 life_rating = 5
 terrain = desert
-owner = OMA
-controller = OMA
-add_core = OMA

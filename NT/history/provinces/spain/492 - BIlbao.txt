@@ -1,8 +1,6 @@
-owner = OCC
-controller = OCC
-add_core = SPA
-add_core = NAV
 trade_goods = fruit
 life_rating = 35
 terrain = deciduous_forest_mountains
+owner = OCC
+controller = OCC
 add_core = OCC

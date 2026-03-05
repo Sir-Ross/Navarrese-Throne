@@ -1,11 +1,6 @@
-owner = MSG
-controller = MSG
-add_core = MSG
-add_core = VIN
-
 trade_goods = timber
 life_rating = 35
 terrain = conifer_forest_hills
-
-
-
+owner = NFR
+controller = NFR
+add_core = NFR

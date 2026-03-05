@@ -1,4 +1,6 @@
-add_core = YKT
 trade_goods = grain
 life_rating = 35
 terrain = boreal_forest_hills
+owner = SFE
+controller = SFE
+add_core = SFE

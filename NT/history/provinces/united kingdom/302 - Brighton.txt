@@ -1,9 +1,7 @@
-owner = FRI
-controller = FRI
-add_core = DUA
-add_core = ENL
 trade_goods = fish
 life_rating = 35
 terrain = good_farmland
 fort = 1
+owner = FRI
+controller = FRI
 add_core = FRI

@@ -1,9 +1,8 @@
-owner = ARN
-controller = ARN
-add_core = ARA
 trade_goods = silk
 life_rating = 35
 terrain = dry_forest_hills
+owner = ARN
+controller = ARN
 add_core = ARN
 state_building = { level = 1 building = glass_factory upgrade = yes } 
 state_building = { level = 1 building = winery upgrade = yes } 

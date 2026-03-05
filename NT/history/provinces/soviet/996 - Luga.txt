@@ -1,8 +1,6 @@
-owner = PSV
-controller = PSV
-#add_core = RUS
-add_core = NOV
-add_core = PSV
-trade_goods = grain
+# trade_goods = grain
 life_rating = 35
 terrain = conifer_forest
+owner = NOV
+controller = NOV
+add_core = NOV

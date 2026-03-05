@@ -1,5 +1,3 @@
-owner = BRG
-controller = BRG
 trade_goods = fish
 life_rating = 35
 terrain = small_island

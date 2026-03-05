@@ -1,8 +1,6 @@
-owner = OCC
-controller = OCC
-add_core = DUA
-add_core = OCC
 trade_goods = grain
 life_rating = 34
 terrain = deciduous_forest_hills
+owner = OCC
+controller = OCC
 add_core = OCC

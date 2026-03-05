@@ -1,5 +1,3 @@
-add_core = HHR
-add_core = DNG
 trade_goods = grain
 life_rating = 20
 terrain = temperate_grassland

@@ -1,8 +1,6 @@
-owner = ZAZ
-controller = ZAZ
-add_core = ZAZ
-add_core = CRI
-add_core = PLC
 trade_goods = coal
 life_rating = 35
 terrain = good_farmland
+owner = NOV
+controller = NOV
+add_core = NOV

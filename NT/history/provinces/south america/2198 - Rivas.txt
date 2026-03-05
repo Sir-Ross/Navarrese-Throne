@@ -1,9 +1,6 @@
-owner = CLM
-
-controller = CLM
-add_core = CLM
-add_core = UCA
-add_core = NIC
 trade_goods = fruit
 life_rating = 30
 terrain = hilly_farmland
+owner = NLE
+controller = NLE
+add_core = NLE

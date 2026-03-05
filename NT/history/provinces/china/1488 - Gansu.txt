@@ -1,7 +1,6 @@
-owner = CHG
-controller = CHG   
-add_core = CHG
-add_core = MGL
 trade_goods = tea
 life_rating = 35
 terrain = semi_desert_hills
+owner = DZU
+controller = DZU
+add_core = DZU

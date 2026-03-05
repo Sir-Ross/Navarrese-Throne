@@ -1,8 +1,6 @@
-owner = BLO
-controller = BLO
-add_core = BLO
-add_core = NOV
-add_core = RUS
 trade_goods = timber
 life_rating = 35
 terrain = boreal_forest
+owner = NOV
+controller = NOV
+add_core = NOV

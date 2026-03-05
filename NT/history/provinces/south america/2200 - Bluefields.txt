@@ -1,8 +1,6 @@
-owner = CLM
-controller = CLM
-add_core = UCA
-add_core = NIC
-add_core = CLM
 trade_goods = cattle
 life_rating = 30
 terrain = jungle
+owner = NLE
+controller = NLE
+add_core = NLE

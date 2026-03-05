@@ -1,11 +1,8 @@
-owner = FRI
-controller = FRI
-add_core = BRB
-add_core = NET
-add_core = BRG
 trade_goods = coal
 life_rating = 35
 terrain = marginal_farmland
+owner = FRI
+controller = FRI
 add_core = FRI
 state_building = { level = 2 building = clipper_shipyard upgrade = yes } 
 state_building = { level = 2 building = tropical_lumber_mill upgrade = yes } 

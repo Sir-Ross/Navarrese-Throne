@@ -1,11 +1,5 @@
-controller = ARN
-owner = ARN
-add_core = MDR
-# add_core = TRA
-add_core = DRA
-trade_goods = silk
+# trade_goods = silk
 life_rating = 35
 terrain = good_farmland
 colonial = 1
 naval_base = 1
-add_core = ARN

@@ -1,8 +1,6 @@
-owner = CLM
-controller = CLM
-add_core = CLM
-add_core = ZAP
-add_core = MEX
 trade_goods = iron
 life_rating = 35
-terrain =  good_farmland
+terrain = good_farmland
+owner = NLE
+controller = NLE
+add_core = NLE

@@ -1,5 +1,6 @@
-add_core = HHR
-add_core = DNG
 trade_goods = timber
 life_rating = 30
 terrain = conifer_forest_mountains
+owner = NUN
+controller = NUN
+add_core = NUN

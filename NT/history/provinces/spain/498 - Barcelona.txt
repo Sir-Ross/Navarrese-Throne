@@ -1,10 +1,9 @@
-owner = OCC
-controller = OCC
-add_core = ARA
 trade_goods = cattle
 life_rating = 40
 terrain = deciduous_forest_hills
 naval_base = 3
+owner = OCC
+controller = OCC
 add_core = OCC
 state_building = { level = 2 building = winery upgrade = yes } 
 state_building = { level = 1 building = canned_food_factory upgrade = yes } 

@@ -1,9 +1,4 @@
-owner = BUR
-controller = BUR
-add_core = BRG
-add_core = LRR
 trade_goods = cattle
 life_rating = 35
 terrain = deciduous_forest_hills
 fort = 1
-add_core = BUR

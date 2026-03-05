@@ -1,5 +1,4 @@
 
-
 trade_goods = iron
 life_rating = 20
 terrain = dry_grassland

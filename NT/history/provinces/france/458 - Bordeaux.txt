@@ -1,9 +1,7 @@
-owner = OCC
-controller = OCC
-add_core = DUA
-add_core = OCC
 trade_goods = fruit
 life_rating = 36
 terrain = forested_farmland
+owner = OCC
+controller = OCC
 add_core = OCC
 state_building = { level = 2 building = gunpowder_factory upgrade = yes } 

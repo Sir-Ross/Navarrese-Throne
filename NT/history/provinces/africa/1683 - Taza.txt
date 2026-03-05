@@ -1,8 +1,7 @@
-owner = ARN
-controller = ARN
-add_core = FEZ
 trade_goods = wool
 life_rating = 35
 colonial = 2
 terrain = hilly_grassland
+owner = ARN
+controller = ARN
 add_core = ARN

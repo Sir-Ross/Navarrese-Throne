@@ -1,15 +1,7 @@
-owner = SCA
-controller = SCA
-add_core = SCA
-add_core = FIN
-add_core = NOV
-#add_core = RUS
-trade_goods = timber
+# trade_goods = timber
 life_rating = 35
 terrain = conifer_forest
 fort = 1
-#state_building = {
-#	level = 1
-#	building = lumber_mill
-#	upgrade = yes
-#}
+owner = NOV
+controller = NOV
+add_core = NOV

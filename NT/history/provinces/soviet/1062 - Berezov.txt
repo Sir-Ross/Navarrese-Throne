@@ -1,9 +1,6 @@
-owner = PRM
-controller = PRM
-add_core = PRM
-add_core = KTK
-add_core = NOV
-#add_core = RUS
-trade_goods = iron
+# trade_goods = iron
 life_rating = 35
 terrain = boreal_marsh
+owner = NOV
+controller = NOV
+add_core = NOV

@@ -1,9 +1,3 @@
-owner = PRM
-controller = PRM
-add_core = PRM
-add_core = SIB
-add_core = NOV
-#add_core = RUS
-trade_goods = timber
+#trade_goods = timber
 life_rating = 35
 terrain = boreal_forest

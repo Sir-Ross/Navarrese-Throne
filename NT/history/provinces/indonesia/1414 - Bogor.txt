@@ -1,9 +1,4 @@
-owner = FRI
-controller = FRI
-add_core = BTM
-add_core = NUS
 trade_goods = coffee
 life_rating = 30
 terrain = jungle_hills
 colonial = 1
-add_core = FRI

@@ -1,7 +1,6 @@
-owner = CPH
-controller = CPH
-add_core = NBG
-add_core = CPH
 trade_goods = grain
 life_rating = 35
 terrain = marginal_farmland
+owner = NFR
+controller = NFR
+add_core = NFR

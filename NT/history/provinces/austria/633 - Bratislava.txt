@@ -1,8 +1,6 @@
-owner = AUS
-controller = AUS
-add_core = HUN
-add_core = SLV
 trade_goods = cattle
 life_rating = 34
 terrain = hilly_farmland
+owner = AUS
+controller = AUS
 add_core = AUS

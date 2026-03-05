@@ -1,10 +1,4 @@
-owner = BRT
-controller = BRT
-add_core = DUA
-add_core = FRA
-add_core = BRT
 trade_goods = cattle
 life_rating = 34
 terrain = marginal_farmland
 naval_base = 2
-add_core = BRT

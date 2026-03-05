@@ -1,7 +1,3 @@
-owner = SME
-controller = SME
-add_core = SME
-add_core = GER
 trade_goods = iron
 life_rating = 33
 terrain = hilly_farmland

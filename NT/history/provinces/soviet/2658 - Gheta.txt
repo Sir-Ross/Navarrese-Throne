@@ -1,3 +1,6 @@
 trade_goods = timber
 life_rating = 15
 terrain = tundra_hills
+owner = NOV
+controller = NOV
+add_core = NOV

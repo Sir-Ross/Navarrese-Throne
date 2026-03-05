@@ -1,7 +1,3 @@
-owner = DUA
-controller = DUA
-add_core = DUA
-add_core = FRA
 trade_goods = grain
 life_rating = 45
 terrain = good_farmland

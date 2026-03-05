@@ -1,8 +1,3 @@
-owner = NZH
-controller = NZH
-add_core = NZH
-add_core = CHU
-add_core = RUS
 trade_goods = timber
 life_rating = 35
 terrain = forested_farmland
@@ -12,4 +7,3 @@ fort = 2
 #	building = lumber_mill
 #	upgrade = yes
 #}
-

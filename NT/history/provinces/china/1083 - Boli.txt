@@ -1,6 +1,6 @@
-owner = MCH
-controller = MCH
-add_core = MCH
 trade_goods = fish
 life_rating = 35
 terrain = conifer_forest_hills
+owner = SFE
+controller = SFE
+add_core = SFE

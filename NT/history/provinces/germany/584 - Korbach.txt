@@ -1,7 +1,3 @@
-owner = HSK
-controller = HSK
-add_core = HSK
-add_core = GER
 trade_goods = timber
 life_rating = 38
 terrain = hilly_farmland

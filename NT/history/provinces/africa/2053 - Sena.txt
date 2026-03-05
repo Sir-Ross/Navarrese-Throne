@@ -1,8 +1,3 @@
-owner = SCA
-controller = SCA
 trade_goods = lead
 life_rating = 35
 terrain = dry_forest
-owner = GHL
-controller = GHL
-add_core = GHL

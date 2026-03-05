@@ -1,7 +1,3 @@
-owner = FRW
-controller = FRW
-add_core = FRW
-add_core = GER
 trade_goods = fruit
 life_rating = 39
 terrain = hilly_farmland  
@@ -11,4 +7,3 @@ state_building = {
 	building = canned_food_factory
 	upgrade = yes
 }
-

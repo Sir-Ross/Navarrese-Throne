@@ -1,8 +1,6 @@
-owner = INC
-controller = INC
-add_core = INC
-
-
 trade_goods = sugar
 life_rating = 40
 terrain = good_farmland
+owner = PAT
+controller = PAT
+add_core = PAT

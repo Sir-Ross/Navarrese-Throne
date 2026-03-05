@@ -1,8 +1,4 @@
-owner = POR
-controller = POR
-add_core = SUS
 trade_goods = grain
 life_rating = 35
 colonial = 1
 terrain = hilly_grassland
-add_core = POR

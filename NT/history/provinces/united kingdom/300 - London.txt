@@ -1,11 +1,9 @@
-owner = FRI
-controller = FRI
-add_core = DUA
-add_core = ENL
 trade_goods = iron
 life_rating = 45
 terrain = marginal_farmland
 fort = 1
+owner = FRI
+controller = FRI
 add_core = FRI
 state_building = { level = 2 building = furniture_factory upgrade = yes } 
 state_building = { level = 1 building = paper_mill upgrade = yes } 

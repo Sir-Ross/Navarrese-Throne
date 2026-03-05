@@ -1,12 +1,6 @@
-owner = FRI
-controller = FRI
-add_core = BTV
-add_core = SAF
-add_core = LWE
 trade_goods = fruit
 life_rating = 35
 terrain = good_farmland
 naval_base = 2
 fort = 2
 colonial = 2
-add_core = FRI

@@ -1,4 +1,6 @@
-add_core = YKT
 trade_goods = cattle
 life_rating = 35
 terrain = tundra_mountains
+owner = SFE
+controller = SFE
+add_core = SFE

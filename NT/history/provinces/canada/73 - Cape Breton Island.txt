@@ -1,7 +1,6 @@
-owner = MSG
-controller = MSG
-add_core = MSG
-add_core = VIN
 trade_goods = coal
 life_rating = 35
 terrain = conifer_forest_hills
+owner = ALN
+controller = ALN
+add_core = ALN

@@ -1,7 +1,3 @@
-owner = AYU
-controller = AYU
-add_core = SIA
 trade_goods = grain
 life_rating = 30
 terrain = seasonal_jungle_mountains
-add_core = AYU

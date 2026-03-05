@@ -1,7 +1,3 @@
-owner = SCA
-controller = SCA
-add_core = SCA
-add_core = SCO
 trade_goods = copper
 life_rating = 35
 naval_base = 2

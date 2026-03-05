@@ -1,7 +1,3 @@
-owner = SIB
-controller = SIB
-add_core = SIB
-#add_core = RUS
-trade_goods = sulphur
+#trade_goods = sulphur
 life_rating = 35
 terrain = boreal_forest

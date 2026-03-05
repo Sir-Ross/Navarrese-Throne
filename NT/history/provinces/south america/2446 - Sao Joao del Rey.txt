@@ -1,7 +1,6 @@
-owner = LOT
-controller = LOT
-add_core = LOT
-add_core = NAL
 trade_goods = coffee
 life_rating = 35
 terrain = deciduous_forest_hills
+owner = BRS
+controller = BRS
+add_core = BRS

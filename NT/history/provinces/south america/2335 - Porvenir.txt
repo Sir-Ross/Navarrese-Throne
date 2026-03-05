@@ -2,3 +2,6 @@ trade_goods = wool
 life_rating = 10
 terrain = tundra_mountains
 colonial = 1
+owner = PAT
+controller = PAT
+add_core = PAT

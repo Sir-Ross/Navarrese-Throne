@@ -1,18 +1,9 @@
-owner = SPA
-controller = SPA
 
 colonial = 2
-add_core = CAS
-add_core = GRA
-add_core = TAP 
 trade_goods = wool
 life_rating = 30
 terrain = seasonal_jungle_hills
   
 
-
-
  
-
-
 

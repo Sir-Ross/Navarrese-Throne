@@ -1,9 +1,6 @@
-owner = FRI
-controller = FRI
-add_core = HND
-# add_core = MUG
-add_core = BEN
-trade_goods = tea
+# trade_goods = tea
 life_rating = 40
 terrain = floodplain_farmland
-add_core = FRI
+owner = DZU
+controller = DZU
+add_core = DZU

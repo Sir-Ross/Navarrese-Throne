@@ -1,6 +1,3 @@
-owner = BRG
-controller = BRG
-add_core = CRC
 trade_goods = sugar
 life_rating = 35
 terrain = marginal_farmland

@@ -1,7 +1,6 @@
-owner = TVE
-controller = TVE
-add_core = TVE
-add_core = RUS
 trade_goods = timber
 life_rating = 35
 terrain = forested_farmland
+owner = NOV
+controller = NOV
+add_core = NOV

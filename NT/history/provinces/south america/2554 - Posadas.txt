@@ -1,7 +1,6 @@
-owner = LOT
-controller = LOT
-add_core = LOT
-add_core = AVA
 trade_goods = cattle
 life_rating = 30
 terrain = jungle
+owner = BRS
+controller = BRS
+add_core = BRS

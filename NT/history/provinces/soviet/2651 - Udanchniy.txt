@@ -1,7 +1,6 @@
-
-add_core = YKT
-
 trade_goods = coal
 life_rating = 15
 terrain = boreal_forest_hills
-
+owner = NOV
+controller = NOV
+add_core = NOV

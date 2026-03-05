@@ -1,10 +1,3 @@
-owner = FRI
-controller = FRI
-add_core = VOC
-add_core = TNJ
-add_core = BNJ
-add_core = NUS
 trade_goods = sulphur
 life_rating = 30
 terrain = swamp_jungle
-add_core = FRI

@@ -1,9 +1,7 @@
-owner = ARN
-controller = ARN
-add_core = ARA
-add_core = KBL
 trade_goods = grain
 life_rating = 35
 colonial = 2
 terrain = dry_grassland
+owner = ARN
+controller = ARN
 add_core = ARN

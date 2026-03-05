@@ -1,7 +1,3 @@
-owner = KOR
-controller = KOR
-add_core = GOY
-add_core = KOR
 trade_goods = lead
 life_rating = 35
 terrain = hilly_farmland

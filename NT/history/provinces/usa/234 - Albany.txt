@@ -1,9 +1,6 @@
-owner = CFS
-controller = CFS
-add_core = NBG
-add_core = CFS
-
-
 trade_goods = iron
 life_rating = 35
 terrain = forested_farmland
+owner = NFR
+controller = NFR
+add_core = NFR

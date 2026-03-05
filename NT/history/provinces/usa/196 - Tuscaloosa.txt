@@ -1,7 +1,6 @@
-owner = PLA
-controller = PLA
-add_core = PLA
 trade_goods = iron
 life_rating = 35
 terrain = forested_farmland
-
+owner = NCU
+controller = NCU
+add_core = NCU

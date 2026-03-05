@@ -1,8 +1,4 @@
-owner = OCC
-controller = OCC
-add_core = SFJ
 trade_goods = tobacco
 life_rating = 35
 terrain = seasonal_jungle_hills
 colonial = 2
-add_core = OCC

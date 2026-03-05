@@ -1,10 +1,8 @@
-owner = ARN
-controller = ARN
-add_core = SPA
-add_core = ANA
 trade_goods = grain
 life_rating = 35
 terrain = dry_forest_mountains
+owner = ARN
+controller = ARN
 add_core = ARN
 state_building = { level = 2 building = canned_food_factory upgrade = yes } 
 state_building = { level = 2 building = cement_factory upgrade = yes } 

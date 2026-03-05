@@ -1,8 +1,4 @@
-owner = AYU
-controller = AYU
-add_core = BUR
 trade_goods = fish
 life_rating = 30
 terrain = floodplain_farmland
 colonial = 2
-add_core = AYU

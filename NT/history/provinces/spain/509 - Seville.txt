@@ -1,9 +1,8 @@
-owner = ARN
-controller = ARN
-add_core = SPA
 trade_goods = sulphur
 life_rating = 35
 terrain = marginal_farmland
+owner = ARN
+controller = ARN
 add_core = ARN
 state_building = { level = 2 building = gunpowder_factory upgrade = yes } 
 state_building = { level = 1 building = explosives_factory upgrade = yes } 

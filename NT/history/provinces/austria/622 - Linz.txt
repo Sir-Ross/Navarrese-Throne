@@ -1,10 +1,8 @@
-owner = AUS
-controller = AUS
-add_core = AUS
-add_core = GER
 trade_goods = sulphur
 life_rating = 30
 terrain = hilly_farmland
+owner = AUS
+controller = AUS
 add_core = AUS
 state_building = { level = 2 building = fertilizer_factory upgrade = yes } 
 state_building = { level = 2 building = bronze_factory upgrade = yes } 

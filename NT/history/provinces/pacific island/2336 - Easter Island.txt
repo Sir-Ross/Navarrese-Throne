@@ -1,4 +1,3 @@
-add_core = RAP
 colonial = 1
 trade_goods = fish
 life_rating = 10

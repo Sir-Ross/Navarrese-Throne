@@ -1,7 +1,3 @@
-add_core = PPU
 trade_goods = spices
 life_rating = 10
 terrain = swamp_jungle
-owner = POR
-controller = POR
-add_core = POR

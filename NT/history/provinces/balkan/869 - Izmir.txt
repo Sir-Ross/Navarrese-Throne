@@ -1,6 +1,3 @@
-owner = TUR
-controller = TUR
-add_core = TUR
 trade_goods = fish
 life_rating = 35
 terrain = dry_forest_hills
@@ -11,5 +8,4 @@ terrain = dry_forest_hills
 #}
 revolt = {
 	type = reactionary_rebels
-	controller = yes
-}
+	}

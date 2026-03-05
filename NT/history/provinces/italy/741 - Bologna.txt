@@ -1,7 +1,3 @@
-owner = FRR
-controller = FRR
-add_core = FRR
-add_core = ITA
 trade_goods = timber
 life_rating = 35
 terrain = hilly_farmland
@@ -10,4 +6,3 @@ terrain = hilly_farmland
 #	building = glass_factory
 #	upgrade = yes
 #}
-

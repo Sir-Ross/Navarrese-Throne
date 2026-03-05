@@ -1,7 +1,3 @@
-owner = AYU
-controller = AYU
-add_core = SIA
 trade_goods = opium
 life_rating = 30
 terrain = good_farmland
-add_core = AYU

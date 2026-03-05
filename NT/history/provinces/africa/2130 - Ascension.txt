@@ -1,9 +1,4 @@
-owner = SCA
-controller = SCA
 trade_goods = fish
 life_rating = 35
 terrain = small_island
 colonial = 1
-owner = GHL
-controller = GHL
-add_core = GHL

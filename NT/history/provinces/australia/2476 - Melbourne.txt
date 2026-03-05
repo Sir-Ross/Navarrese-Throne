@@ -1,9 +1,4 @@
-owner = YLO
-controller = YLO
-add_core = YLO
-
 
 trade_goods = grain
 life_rating = 35
 terrain = forested_farmland
-

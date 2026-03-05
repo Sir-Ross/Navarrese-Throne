@@ -1,9 +1,6 @@
-owner = PRM
-controller = PRM
-add_core = PRM
-add_core = SIB
-add_core = NOV
 trade_goods = iron
 terrain = boreal_forest_mountains
 life_rating = 35
-
+owner = NOV
+controller = NOV
+add_core = NOV

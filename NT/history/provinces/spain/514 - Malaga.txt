@@ -1,8 +1,6 @@
-owner = ARN
-controller = ARN
-add_core = SPA
-add_core = ANA
 trade_goods = coal
 life_rating = 35
 terrain = dry_forest_mountains
+owner = ARN
+controller = ARN
 add_core = ARN

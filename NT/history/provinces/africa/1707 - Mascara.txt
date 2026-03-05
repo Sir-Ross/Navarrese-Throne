@@ -1,7 +1,6 @@
-owner = ARN
-controller = ARN
-add_core = ALJ
 trade_goods = lead
 life_rating = 35
 terrain = hilly_grassland
+owner = ARN
+controller = ARN
 add_core = ARN

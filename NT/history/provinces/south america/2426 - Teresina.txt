@@ -1,7 +1,6 @@
-owner = AMA
-controller = AMA
-add_core = AMA
-add_core = EQN
 trade_goods = cotton
 life_rating = 35
 terrain = dry_forest_hills
+owner = BRS
+controller = BRS
+add_core = BRS

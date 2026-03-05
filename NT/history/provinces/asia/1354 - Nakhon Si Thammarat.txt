@@ -1,7 +1,3 @@
-owner = AYU
-controller = AYU
-add_core = LIG
 trade_goods = fish
 life_rating = 30
 terrain = jungle_hills
-add_core = AYU

@@ -1,6 +1,3 @@
-owner = MCH
-controller = MCH
-add_core = MCH
 trade_goods = timber
 life_rating = 32
 terrain = temperate_grassland

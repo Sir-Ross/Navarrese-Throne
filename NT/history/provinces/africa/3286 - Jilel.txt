@@ -1,7 +1,6 @@
-owner = ARN
-controller = ARN
-add_core = KBL
 trade_goods = lead
 life_rating = 35
 terrain = dry_forest_mountains
+owner = ARN
+controller = ARN
 add_core = ARN

@@ -1,5 +1,6 @@
-add_core = YKT
-
 trade_goods = grain
 life_rating = 15
 terrain = boreal_forest_mountains
+owner = NOV
+controller = NOV
+add_core = NOV

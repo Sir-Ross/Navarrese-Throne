@@ -1,9 +1,4 @@
-owner = HUN
-controller = HUN
-add_core = CRO
-add_core = YUG
 trade_goods = fish
 life_rating = 35
 terrain = dry_forest_hills
 naval_base = 1
-add_core = HUN

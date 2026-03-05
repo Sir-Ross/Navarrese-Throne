@@ -1,10 +1,4 @@
-owner = FRI
-controller = FRI
-add_core = SAF
-add_core = BTV
-add_core = LWE
 trade_goods = grain
 life_rating = 25
 terrain = desert_hills
 fort = 1
-add_core = FRI

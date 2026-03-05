@@ -1,7 +1,6 @@
-owner = OCC
-controller = OCC
-add_core = NAV
 trade_goods = iron
 life_rating = 35
 terrain = mountain_farmland
+owner = OCC
+controller = OCC
 add_core = OCC

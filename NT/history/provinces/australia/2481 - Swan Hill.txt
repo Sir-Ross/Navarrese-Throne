@@ -1,5 +1,3 @@
-add_core = YLO
-
 
 trade_goods = lead
 life_rating = 30

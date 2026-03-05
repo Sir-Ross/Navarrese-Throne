@@ -1,7 +1,7 @@
-owner = TNG
-controller = TNG
-add_core = TON
 trade_goods = spices
 life_rating = 30
 terrain = jungle_farmland
 fort = 1
+owner = SEB
+controller = SEB
+add_core = SEB

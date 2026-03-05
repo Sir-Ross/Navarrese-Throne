@@ -1,8 +1,6 @@
-owner = FRI
-controller = FRI
-add_core = BRB
-add_core = BRG
 trade_goods = coal
 life_rating = 35
 terrain = marginal_farmland
+owner = FRI
+controller = FRI
 add_core = FRI

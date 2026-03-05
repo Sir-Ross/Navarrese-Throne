@@ -1,7 +1,6 @@
-owner = KAM
-controller = KAM
-add_core = KAM
-add_core = AIN
 trade_goods = coal
 life_rating = 20
 terrain = conifer_forest_hills
+owner = SFE
+controller = SFE
+add_core = SFE

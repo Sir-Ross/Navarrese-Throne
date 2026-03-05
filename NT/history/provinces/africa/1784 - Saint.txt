@@ -2,5 +2,4 @@ trade_goods = fruit
 life_rating = 30
 terrain = semi_desert
 colonial = 1
-
 naval_base = 1
