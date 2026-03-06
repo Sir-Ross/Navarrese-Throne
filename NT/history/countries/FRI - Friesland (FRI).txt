@@ -1,6 +1,5 @@
 capital = 385
 primary_culture = frisian
-culture = frisian
 culture = dutch
 religion = protestant
 government = hms_government
