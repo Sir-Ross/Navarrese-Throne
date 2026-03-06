@@ -1,6 +1,5 @@
 capital = 84
 primary_culture = swedish
-culture = swedish
 religion = protestant
 government = democracy
 plurality = 0.1
