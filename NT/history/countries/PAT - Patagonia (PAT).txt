@@ -1,0 +1,21 @@
+capital = 2348
+primary_culture = patagonian
+culture = portuguese
+religion = catholic
+government = democracy
+plurality = 0
+nationalvalue = nv_order
+literacy = 0.066917
+
+civilized = yes
+
+ruling_party = PAT_conservative
+upper_house = {
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
