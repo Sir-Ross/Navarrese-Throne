@@ -1,6 +1,5 @@
 capital = 269
 primary_culture = scottish
-culture = scottish
 culture = irish
 culture = welsh
 religion = catholic
