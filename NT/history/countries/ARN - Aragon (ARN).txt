@@ -24,7 +24,7 @@ party = {
 	war_policy = jingoism
 }
 
-ruling_party = ARN_liberal
+ruling_party = ARN_conservative
 upper_house = {
 	fascist = 0
 	liberal = 0
