@@ -1,6 +1,5 @@
 capital = 233
 primary_culture = frisian
-culture = frisian
 religion = protestant
 government = democracy
 plurality = 0.1
