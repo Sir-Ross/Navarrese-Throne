@@ -12,7 +12,7 @@ literacy = 0.066917
 civilized = yes
 
 party = {
-	name = "Conservatives"
+	name = "GHL_conservative"
 	start_date = 1830.1.1
 	end_date = 1940.1.1
 
