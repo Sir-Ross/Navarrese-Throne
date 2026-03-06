@@ -1,6 +1,5 @@
 capital = 2183
 primary_culture = portuguese
-culture = portuguese
 religion = catholic
 government = hms_government
 plurality = 0.1
