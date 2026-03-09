@@ -1,5 +1,6 @@
 # Navarrese Throne starting lore events
 country_event = {
+#TODO: Make decision that is called by history file
         id = 250000
         title = "EVTNAME250000"
         desc = "EVTDESC250000"
