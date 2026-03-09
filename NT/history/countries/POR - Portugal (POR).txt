@@ -11,6 +11,10 @@ non_state_culture_literacy = 0.02
 civilized = yes
 prestige = 10
 
+1836.1.1 = {
+    #decision = portugal_lore
+}
+
 ruling_party = POR_conservative
 upper_house = {
 	fascist = 0
