@@ -12,7 +12,7 @@ civilized = yes
 prestige = 10
 
 1836.1.1 = {
-    #decision = portugal_lore
+    decision = portugal_lore
 }
 
 ruling_party = POR_conservative
