@@ -1,0 +1,15 @@
+political_decisions = {
+    portugal_lore = {
+        potential = {
+            tag = POR
+            ai = no
+        }
+        allow = {
+            tag = POR
+            ai = no
+        }
+        effect = {
+            POR = { country_event = 250000 }
+        }
+    }
+}
