@@ -196,6 +196,7 @@ WSR     = "countries/Weserian Federation.txt"
 #PRL     = "countries/Pure Land.txt"
 
 ## Americas ##
+#LAV     = "countries/Lavrador.txt"
 #TAW     = "countries/Tawantinsuyu.txt"
 
 
