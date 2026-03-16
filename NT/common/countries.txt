@@ -10,8 +10,8 @@ REB     = "countries/rebels.txt"
 
 # Western
 AUV     = "countries/Auvergne.txt"
+#BRG     = "countries/Burgundy.txt"
 #BRT     = "countries/Brittany.txt"
-#BUR     = "countries/Burgundy.txt"
 GHL     = "countries/Gaidhealand.txt" # formerly Bretonnia
 #HAN     = "countries/Hanover.txt"
 FRI     = "countries/Friesland.txt"
