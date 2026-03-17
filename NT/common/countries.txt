@@ -10,17 +10,17 @@ REB     = "countries/rebels.txt"
 
 # Western
 AUV     = "countries/Auvergne.txt"
-#BRG     = "countries/Burgundy.txt"
-#BRT     = "countries/Brittany.txt"
+#+BRG     = "countries/Burgundy.txt"
+#+BRT     = "countries/Brittany.txt"
 GHL     = "countries/Gaidhealand.txt" # formerly Bretonnia
-#HAN     = "countries/Hanover.txt"
+#+HAN     = "countries/Hanover.txt"
 FRI     = "countries/Friesland.txt"
-#LOR     = "countries/Lorraine.txt"
+#+LOR     = "countries/Lorraine.txt"
 OCC     = "countries/Occitania.txt"
 
 # Southern
 ARN     = "countries/Aragon.txt"
-#BER     = "countries/Bern.txt"
+#+BER     = "countries/Bern.txt"
 #PAP     = "countries/Papal States.txt"
 #PIE     = "countries/Piedmont.txt"
 POR     = "countries/Portugal.txt"
@@ -63,7 +63,7 @@ BAV     = "countries/Bavaria.txt"
 #WRZ     = "countries/Wurzburg.txt"
 
 # Northern
-#SWE     = "countries/Sweden.txt"
+#+SWE     = "countries/Sweden.txt"
 #SWH     = "countries/Schleswig-Holstein.txt"
 
 # Eastern
@@ -155,7 +155,7 @@ SFE     = "countries/Swedish Far East.txt"
 ALN     = "countries/Alba Nuadh.txt"
 #COM     = "countries/Comancharia.txt"
 #GNZ     = "countries/Gonzaria.txt" #Central America #May change name
-#MXI     = "countries/Mexigua.txt" #Central Mexico
+#+MXI     = "countries/Mexigua.txt" #Central Mexico
 NCU     = "countries/New Cuba.txt"
 NFR     = "countries/New Frisia.txt"
 #NSW     = "countries/New Sweden.txt"
@@ -165,12 +165,12 @@ VIN     = "countries/Vinland.txt"
 
 # South America
 BRS     = "countries/Brasil.txt"
-#CHM     = "countries/Chimor.txt"
+#+CHM     = "countries/Chimor.txt"
 #GUI     = "countries/Guiana.txt"
 #NGA     = "countries/New Galicia.txt"
 PAT     = "countries/Patagonia.txt"
 #TIW     = "countries/Tiwanaku.txt"
-#WAR     = "countries/Wari.txt"
+#+WAR     = "countries/Wari.txt"
 
 
 ###### FORMABLE TAGS ######
