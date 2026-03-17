@@ -1,5 +1,6 @@
 ### NOTE: Until flags have been made for countries, they will be commented
-###       out with a #
+###       out with a #. If a flag is made but the country files aren't, it
+###       will be marked with a #+
 
 # Special countries
 REB     = "countries/rebels.txt"
