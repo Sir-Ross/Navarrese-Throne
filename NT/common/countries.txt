@@ -34,8 +34,8 @@ POR     = "countries/Portugal.txt"
 #+VEN     = "countries/Venice.txt"
 
 # Central
-#ALM     = "countries/Altmark.txt"
-#ALS     = "countries/Elsass.txt"
+#+ALM     = "countries/Altmark.txt"
+#+ALS     = "countries/Elsass.txt"
 #ANS     = "countries/Ansbach.txt"
 AUS     = "countries/Austria.txt"
 #BAD     = "countries/Baden-Wurttemberg.txt"
