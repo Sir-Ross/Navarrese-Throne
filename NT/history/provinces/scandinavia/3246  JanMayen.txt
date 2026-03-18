@@ -2,3 +2,6 @@ trade_goods = fish
 life_rating = 5
 terrain = small_island
 conroller = SWE
+owner = SWE
+controller = SWE
+add_core = SWE

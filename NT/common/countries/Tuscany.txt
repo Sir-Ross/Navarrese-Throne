@@ -1,2 +1,2 @@
-color = { 216 30 5 }
+color = { 30 216 5 }
 graphical_culture = ItalianGC

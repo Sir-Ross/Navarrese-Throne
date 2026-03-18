@@ -1,3 +1,6 @@
 trade_goods = coal
 life_rating = 35
 terrain = marsh
+owner = OTT
+controller = OTT
+add_core = OTT

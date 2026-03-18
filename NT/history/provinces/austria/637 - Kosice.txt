@@ -1,4 +1,6 @@
-
 trade_goods = coal
 life_rating = 33
 terrain = hilly_farmland
+owner = HUN
+controller = HUN
+add_core = HUN

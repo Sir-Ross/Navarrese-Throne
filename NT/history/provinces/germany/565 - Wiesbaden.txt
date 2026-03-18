@@ -1,8 +1,7 @@
 trade_goods = coal
 life_rating = 38
 terrain = deciduous_forest_hills
-state_building = {
-	level = 2 
-	building = winery
-	upgrade = yes
-}
+owner = HES
+controller = HES
+add_core = HES
+state_building = { level = 2 building = winery upgrade = yes } 

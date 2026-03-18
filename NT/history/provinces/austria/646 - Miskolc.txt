@@ -1,4 +1,6 @@
-
 trade_goods = fruit
 life_rating = 34
 terrain = deciduous_forest_hills
+owner = HUN
+controller = HUN
+add_core = HUN

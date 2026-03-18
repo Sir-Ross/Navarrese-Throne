@@ -1,3 +1,6 @@
 # trade_goods = lead
 life_rating = 33
 terrain = deciduous_forest_hills
+owner = HUN
+controller = HUN
+add_core = HUN

@@ -1,6 +1,6 @@
 trade_goods = copper
 life_rating = 35
 terrain = semi_desert_hills
-owner = NPO
-controller = NPO
-add_core = NPO
+owner = PAN
+controller = PAN
+add_core = PAN

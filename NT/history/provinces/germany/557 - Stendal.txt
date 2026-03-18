@@ -1,3 +1,7 @@
+owner = ALM
+controller = ALM
+add_core = ALM
+
 trade_goods = sulphur
 life_rating = 33
 terrain = forested_farmland

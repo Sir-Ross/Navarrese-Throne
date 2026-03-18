@@ -1,6 +1,6 @@
 trade_goods = timber
 life_rating = 35
 terrain = dry_forest_hills
-owner = NPO
-controller = NPO
-add_core = NPO
+owner = PAN
+controller = PAN
+add_core = PAN

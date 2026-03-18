@@ -1,4 +1,7 @@
 trade_goods = copper
 life_rating = 35
 terrain = hilly_farmland
+owner = POR
+controller = POR
+add_core = POR
 state_building = { level = 2 building = bronze_factory upgrade = yes } 

@@ -1,3 +1,6 @@
 trade_goods = fish
 life_rating = 34
 terrain = marginal_farmland
+owner = BRT
+controller = BRT
+add_core = BRT

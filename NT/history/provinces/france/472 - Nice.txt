@@ -2,3 +2,6 @@ trade_goods = grain
 life_rating = 35
 terrain = deciduous_forest_mountains
 naval_base = 1
+owner = PIE
+controller = PIE
+add_core = PIE

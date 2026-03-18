@@ -1,6 +1,6 @@
 trade_goods = fruit
 life_rating = 30
 terrain = jungle_hills
-owner = NLE
-controller = NLE
-add_core = NLE
+owner = GNZ
+controller = GNZ
+add_core = GNZ

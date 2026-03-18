@@ -1,8 +1,7 @@
 trade_goods = timber
 life_rating = 35
 terrain = forested_farmland
-state_building = {
-	level = 2 
-	building = steel_factory
-	upgrade = yes
-}
+owner = ALS
+controller = ALS
+add_core = ALS
+state_building = { level = 2 building = steel_factory upgrade = yes } 

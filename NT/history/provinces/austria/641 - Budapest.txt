@@ -1,10 +1,7 @@
-
 trade_goods = cattle
 life_rating = 40
 terrain = good_farmland
 fort = 1
-#state_building = {
-#	level = 4
-#	building = canned_food_factory
-#	upgrade = yes
-#}
+owner = HUN
+controller = HUN
+add_core = HUN

@@ -2,3 +2,6 @@ trade_goods = fish
 life_rating = 35
 terrain = forested_farmland
 naval_base = 1
+owner = POR
+controller = POR
+add_core = POR

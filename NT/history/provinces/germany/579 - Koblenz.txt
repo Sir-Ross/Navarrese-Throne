@@ -1,3 +1,6 @@
 trade_goods = timber
 life_rating = 38
 terrain = forested_farmland
+owner = NAS
+controller = NAS
+add_core = NAS

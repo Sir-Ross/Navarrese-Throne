@@ -1,6 +1,6 @@
 trade_goods = grain
 life_rating = 35
 terrain = semi_desert
-owner = NPO
-controller = NPO
-add_core = NPO
+owner = PAN
+controller = PAN
+add_core = PAN

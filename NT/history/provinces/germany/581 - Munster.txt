@@ -1,8 +1,7 @@
 trade_goods = copper
 life_rating = 34
 terrain = marginal_farmland
-state_building = {
-	level = 3
-	building = bronze_factory
-	upgrade = yes
-}
+owner = MUN
+controller = MUN
+add_core = MUN
+state_building = { level = 3 building = bronze_factory upgrade = yes } 

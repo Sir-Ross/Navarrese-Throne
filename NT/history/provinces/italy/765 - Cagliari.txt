@@ -2,3 +2,6 @@
 naval_base = 1
 life_rating = 35
 terrain = hilly_farmland
+owner = SIC
+controller = SIC
+add_core = SIC

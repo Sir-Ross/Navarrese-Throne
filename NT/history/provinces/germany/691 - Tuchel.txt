@@ -1,3 +1,6 @@
 trade_goods = cattle
 life_rating = 40
 terrain = forested_farmland
+owner = PML
+controller = PML
+add_core = PML

@@ -1,6 +1,7 @@
 trade_goods = iron
 life_rating = 35
 terrain = hilly_farmland
-revolt = {
-	type = nationalist_rebels
-	}
+owner = OTT
+controller = OTT
+add_core = OTT
+revolt = { type = nationalist_rebels } 

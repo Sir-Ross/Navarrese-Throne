@@ -1,6 +1,6 @@
 trade_goods = fruit
 life_rating = 40
 terrain = semi_desert_hills
-owner = NPO
-controller = NPO
-add_core = NPO
+owner = PAN
+controller = PAN
+add_core = PAN

@@ -1,6 +1,7 @@
 trade_goods = coal
 life_rating = 35
 terrain = dry_forest_hills
-revolt = {
-	type = reactionary_rebels
-	}
+owner = OTT
+controller = OTT
+add_core = OTT
+revolt = { type = reactionary_rebels } 

@@ -2,23 +2,10 @@ trade_goods = grain
 life_rating = 35
 terrain = good_farmland
 fort = 3
-state_building = {
-	level = 2 
-	building = fabric_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2 
-	building = canned_food_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2 
-	building = cement_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2
-	building = regular_clothes_factory
-	upgrade = yes
-}
+owner = BRN
+controller = BRN
+add_core = BRN
+state_building = { level = 2 building = fabric_factory upgrade = yes } 
+state_building = { level = 2 building = canned_food_factory upgrade = yes } 
+state_building = { level = 2 building = cement_factory upgrade = yes } 
+state_building = { level = 2 building = regular_clothes_factory upgrade = yes } 

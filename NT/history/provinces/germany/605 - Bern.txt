@@ -2,4 +2,6 @@ trade_goods = iron
 life_rating = 36
 terrain = forested_farmland
 fort = 1
-
+owner = BER
+controller = BER
+add_core = BER

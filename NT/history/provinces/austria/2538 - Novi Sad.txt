@@ -1,4 +1,6 @@
-
 trade_goods = wool
 life_rating = 33
 terrain = good_farmland
+owner = HUN
+controller = HUN
+add_core = HUN

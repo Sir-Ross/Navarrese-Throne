@@ -1,4 +1,7 @@
 trade_goods = timber
 life_rating = 35
 terrain = marginal_farmland
-fort = 1 
+fort = 1
+owner = LOR
+controller = LOR
+add_core = LOR

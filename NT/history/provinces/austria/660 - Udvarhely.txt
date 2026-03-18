@@ -1,4 +1,6 @@
-
 trade_goods = wool
 life_rating = 32
 terrain = conifer_forest_mountains
+owner = HUN
+controller = HUN
+add_core = HUN

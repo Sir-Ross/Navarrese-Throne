@@ -2,13 +2,8 @@ trade_goods = iron
 life_rating = 40
 fort = 1
 terrain = hilly_farmland
-state_building = {
-	level = 1
-	building = fabric_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2 
-	building = steel_factory
-	upgrade = yes
-}
+owner = TUS
+controller = TUS
+add_core = TUS
+state_building = { level = 1 building = fabric_factory upgrade = yes } 
+state_building = { level = 2 building = steel_factory upgrade = yes } 

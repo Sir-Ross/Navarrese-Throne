@@ -1,3 +1,6 @@
 trade_goods = lead
 life_rating = 32
 terrain = hilly_farmland
+owner = VAU
+controller = VAU
+add_core = VAU

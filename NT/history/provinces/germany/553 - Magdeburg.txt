@@ -2,19 +2,9 @@ trade_goods = cattle
 life_rating = 35
 terrain = good_farmland
 fort = 2
-state_building = {
-	level = 2 
-	building = ammunition_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2 
-	building = small_arms_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2 
-	building = paper_mill
-	upgrade = yes
-}
-
+owner = MAG
+controller = MAG
+add_core = MAG
+state_building = { level = 2 building = ammunition_factory upgrade = yes } 
+state_building = { level = 2 building = small_arms_factory upgrade = yes } 
+state_building = { level = 2 building = paper_mill upgrade = yes } 

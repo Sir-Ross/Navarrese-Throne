@@ -2,3 +2,6 @@ trade_goods = fruit
 life_rating = 35
 colonial = 2
 terrain = hilly_grassland
+owner = POR
+controller = POR
+add_core = POR

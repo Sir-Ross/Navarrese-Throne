@@ -2,3 +2,6 @@ trade_goods = coal
 life_rating = 40
 terrain = forested_farmland
 railroad = 1
+owner = DSS
+controller = DSS
+add_core = DSS

@@ -3,14 +3,8 @@ life_rating = 42
 terrain = forested_farmland
 railroad = 1
 fort = 2
-state_building = {
-	level = 2
-	building = glass_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2 
-	building = winery
-	upgrade = yes
-}
-
+owner = BRN
+controller = BRN
+add_core = BRN
+state_building = { level = 2 building = glass_factory upgrade = yes } 
+state_building = { level = 2 building = winery upgrade = yes } 

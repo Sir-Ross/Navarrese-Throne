@@ -1,19 +1,9 @@
 trade_goods = coal
 life_rating = 39
 terrain = good_farmland
-state_building = {
-	level = 2 
-	building = fabric_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2 
-	building = steel_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2
-	building = regular_clothes_factory
-	upgrade = yes
-}
-
+owner = KLN
+controller = KLN
+add_core = KLN
+state_building = { level = 2 building = fabric_factory upgrade = yes } 
+state_building = { level = 2 building = steel_factory upgrade = yes } 
+state_building = { level = 2 building = regular_clothes_factory upgrade = yes } 

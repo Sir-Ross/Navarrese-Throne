@@ -2,8 +2,7 @@ trade_goods = fruit
 life_rating = 32
 terrain = deciduous_forest_mountains
 fort = 1
-state_building = {
-	level = 2 
-	building = fabric_factory
-	upgrade = yes
-}
+owner = BER
+controller = BER
+add_core = BER
+state_building = { level = 2 building = fabric_factory upgrade = yes } 

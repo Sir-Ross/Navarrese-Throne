@@ -1,4 +1,6 @@
-
 trade_goods = fish
 life_rating = 36
 terrain = dry_forest_hills
+owner = ILL
+controller = ILL
+add_core = ILL

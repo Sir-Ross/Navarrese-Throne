@@ -2,3 +2,6 @@ trade_goods = grain
 life_rating = 35
 terrain = marginal_farmland
 fort = 3
+owner = LUB
+controller = LUB
+add_core = LUB

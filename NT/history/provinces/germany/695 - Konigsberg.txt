@@ -1,9 +1,7 @@
 trade_goods = cattle
 life_rating = 40
 terrain = marginal_farmland
-fort = 1
-#state_building = {
-#	level = 2 
-#	building = lumber_mill
-#	upgrade = yes
-#}
+fort = 1 # state_building = {
+owner = PML
+controller = PML
+add_core = PML

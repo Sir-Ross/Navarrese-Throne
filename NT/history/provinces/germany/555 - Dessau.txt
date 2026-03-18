@@ -2,3 +2,6 @@ trade_goods = fruit
 life_rating = 35
 terrain = good_farmland
 fort = 2
+owner = SAX
+controller = SAX
+add_core = SAX

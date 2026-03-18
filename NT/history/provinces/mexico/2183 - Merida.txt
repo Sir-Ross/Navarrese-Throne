@@ -1,6 +1,6 @@
 trade_goods = grain
 life_rating = 30
 terrain = dry_forest
-owner = NLE
-controller = NLE
-add_core = NLE
+owner = GNZ
+controller = GNZ
+add_core = GNZ

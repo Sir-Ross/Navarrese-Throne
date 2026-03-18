@@ -1,6 +1,7 @@
 trade_goods = coffee
 life_rating = 35
 terrain = hilly_farmland
-revolt = {
-	type = reactionary_rebels
-	}
+owner = OTT
+controller = OTT
+add_core = OTT
+revolt = { type = reactionary_rebels } 

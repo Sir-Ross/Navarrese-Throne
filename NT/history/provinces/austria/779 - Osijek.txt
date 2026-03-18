@@ -1,3 +1,6 @@
 trade_goods = cattle
 life_rating = 38
 terrain = forested_farmland
+owner = HUN
+controller = HUN
+add_core = HUN

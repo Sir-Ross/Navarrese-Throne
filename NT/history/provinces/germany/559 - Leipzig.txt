@@ -1,3 +1,6 @@
 trade_goods = coal
 life_rating = 37
 terrain = good_farmland
+owner = BOH
+controller = BOH
+add_core = BOH

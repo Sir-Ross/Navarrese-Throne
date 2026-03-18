@@ -1,4 +1,7 @@
 trade_goods = grain
 life_rating = 35
 terrain = good_farmland
-fort = 1 
+fort = 1
+owner = LOR
+controller = LOR
+add_core = LOR

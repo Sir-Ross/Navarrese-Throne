@@ -2,4 +2,7 @@ trade_goods = fish
 life_rating = 35
 terrain = good_farmland
 naval_base = 2
+owner = SIC
+controller = SIC
+add_core = SIC
 state_building = { level = 1 building = canned_food_factory upgrade = yes } 

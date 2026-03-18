@@ -1,3 +1,6 @@
 trade_goods = coal
 life_rating = 35
 terrain = deciduous_forest
+owner = LUX
+controller = LUX
+add_core = LUX

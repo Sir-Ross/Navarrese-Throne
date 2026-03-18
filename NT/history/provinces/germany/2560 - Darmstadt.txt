@@ -1,8 +1,7 @@
 trade_goods = iron
 life_rating = 40
 terrain = deciduous_forest_hills
-state_building = {
-	level = 4 
-	building = fabric_factory
-	upgrade = yes
-}
+owner = WRZ
+controller = WRZ
+add_core = WRZ
+state_building = { level = 4 building = fabric_factory upgrade = yes } 

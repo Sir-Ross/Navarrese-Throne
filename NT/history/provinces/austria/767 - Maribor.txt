@@ -1,4 +1,7 @@
 trade_goods = timber
 life_rating = 32
 terrain = deciduous_forest_hills
+owner = HUN
+controller = HUN
+add_core = HUN
 state_building = { level = 2 building = lumber_mill upgrade = yes } 

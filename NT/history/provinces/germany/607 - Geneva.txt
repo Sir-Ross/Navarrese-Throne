@@ -2,3 +2,6 @@ trade_goods = grain
 life_rating = 38
 terrain = hilly_farmland
 fort = 2
+owner = VAU
+controller = VAU
+add_core = VAU

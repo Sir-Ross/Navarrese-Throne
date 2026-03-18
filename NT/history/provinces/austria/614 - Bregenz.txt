@@ -1,3 +1,6 @@
 trade_goods = timber
 life_rating = 33
 terrain = conifer_forest_mountains
+owner = TLG
+controller = TLG
+add_core = TLG

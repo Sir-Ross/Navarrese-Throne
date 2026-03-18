@@ -1,4 +1,6 @@
-
 trade_goods = grain
 life_rating = 31
 terrain = conifer_forest_mountains
+owner = HUN
+controller = HUN
+add_core = HUN

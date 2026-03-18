@@ -1,9 +1,7 @@
 trade_goods = fruit
 life_rating = 39
-terrain = hilly_farmland  
- 
-state_building = {
-	level = 1
-	building = canned_food_factory
-	upgrade = yes
-}
+terrain = hilly_farmland
+owner = WRZ
+controller = WRZ
+add_core = WRZ
+state_building = { level = 1 building = canned_food_factory upgrade = yes } 

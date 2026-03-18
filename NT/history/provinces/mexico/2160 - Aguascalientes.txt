@@ -1,6 +1,6 @@
 trade_goods = timber
 life_rating = 35
 terrain = hilly_grassland
-owner = NLI
-controller = NLI
-add_core = NLI
+owner = MXI
+controller = MXI
+add_core = MXI

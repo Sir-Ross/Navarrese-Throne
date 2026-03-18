@@ -1,6 +1,6 @@
 trade_goods = fruit
 life_rating = 35
 terrain = dry_forest_mountains
-owner = NLI
-controller = NLI
-add_core = NLI
+owner = MXI
+controller = MXI
+add_core = MXI

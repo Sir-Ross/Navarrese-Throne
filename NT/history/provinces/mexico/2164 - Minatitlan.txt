@@ -1,6 +1,6 @@
 trade_goods = iron
 life_rating = 35
 terrain = good_farmland
-owner = NLE
-controller = NLE
-add_core = NLE
+owner = MXI
+controller = MXI
+add_core = MXI

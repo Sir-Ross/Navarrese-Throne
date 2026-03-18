@@ -1,6 +1,7 @@
 trade_goods = wool
 life_rating = 35
 terrain = dry_grassland
-revolt = {
-	type = reactionary_rebels
-	}
+owner = OTT
+controller = OTT
+add_core = OTT
+revolt = { type = reactionary_rebels } 

@@ -1,3 +1,7 @@
+owner = COB
+controller = COB
+add_core = COB
+
 trade_goods = iron
 life_rating = 33
 terrain = hilly_farmland

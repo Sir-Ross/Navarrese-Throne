@@ -1,3 +1,6 @@
 trade_goods = iron
 life_rating = 36
 terrain = deciduous_forest_mountains
+owner = HUN
+controller = HUN
+add_core = HUN

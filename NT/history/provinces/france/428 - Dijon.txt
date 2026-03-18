@@ -1,6 +1,9 @@
 trade_goods = fruit
 life_rating = 36
 terrain = hilly_farmland
+owner = BRG
+controller = BRG
+add_core = BRG
 state_building = { level = 1 building = furniture_factory upgrade = yes } 
 state_building = { level = 1 building = fertilizer_factory upgrade = yes } 
 state_building = { level = 1 building = small_arms_factory upgrade = yes } 

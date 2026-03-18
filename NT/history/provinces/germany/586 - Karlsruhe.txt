@@ -1,8 +1,6 @@
 trade_goods = fruit
 life_rating = 35
-terrain = hilly_farmland
-#state_building = {
-#	level = 2 
-#	building = lumber_mill
-#	upgrade = yes
-#}
+terrain = hilly_farmland # state_building = {
+owner = BAD
+controller = BAD
+add_core = BAD

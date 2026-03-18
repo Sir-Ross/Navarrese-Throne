@@ -2,3 +2,6 @@ trade_goods = cattle
 life_rating = 35
 terrain = deciduous_forest_hills
 fort = 1
+owner = BRG
+controller = BRG
+add_core = BRG

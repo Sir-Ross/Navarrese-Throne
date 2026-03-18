@@ -1,3 +1,6 @@
 trade_goods = coal
 life_rating = 34
 terrain = deciduous_forest_mountains
+owner = SVY
+controller = SVY
+add_core = SVY

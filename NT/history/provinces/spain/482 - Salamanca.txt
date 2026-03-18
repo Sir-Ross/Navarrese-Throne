@@ -1,3 +1,6 @@
 trade_goods = lead
 life_rating = 35
 terrain = forested_farmland
+owner = POR
+controller = POR
+add_core = POR

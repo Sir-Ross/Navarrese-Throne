@@ -2,3 +2,6 @@ trade_goods = timber
 life_rating = 38
 terrain = forested_farmland
 fort = 3
+owner = BRN
+controller = BRN
+add_core = BRN

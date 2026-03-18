@@ -2,13 +2,7 @@ trade_goods = grain
 life_rating = 37
 terrain = good_farmland
 railroad = 1
-state_building = {
-	level = 1
-	building = lumber_mill
-	upgrade = yes
-}
-#state_building = {
-#	level = 4
-#	building = paper_mill
-#	upgrade = yes
-#}
+owner = ANS
+controller = ANS
+add_core = ANS
+state_building = { level = 1 building = lumber_mill upgrade = yes } # state_building = {

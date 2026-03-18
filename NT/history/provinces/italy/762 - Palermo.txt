@@ -1,5 +1,8 @@
 # trade_goods = fruit
 life_rating = 35
 terrain = hilly_farmland
+owner = SIC
+controller = SIC
+add_core = SIC
 state_building = { level = 2 building = gunpowder_factory upgrade = yes } 
 state_building = { level = 1 building = explosives_factory upgrade = yes } 
