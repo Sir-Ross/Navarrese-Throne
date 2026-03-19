@@ -1,6 +1,6 @@
-owner = LBG
-controller = LBG
-add_core = LBG
+owner = CLV
+controller = CLV
+add_core = CLV
 
 trade_goods = coal
 life_rating = 38
