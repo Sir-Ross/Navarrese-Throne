@@ -108,6 +108,7 @@ NOV     = "countries/Novgorod.txt"
 
 # Central
 #BUK     = "countries/Bukhara.txt"
+#GEO     = "countries/Georgia.txt"
 #GOL     = "countries/Golden Horde.txt"
 #KHV     = "countries/Khiva.txt"
 #PER     = "countries/Persia.txt"
