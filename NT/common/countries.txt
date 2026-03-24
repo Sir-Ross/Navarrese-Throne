@@ -68,9 +68,9 @@ SWE     = "countries/Sweden.txt"
 SWH     = "countries/Schleswig-Holstein.txt"
 
 # Eastern
-#ALB     = "countries/Albania.txt"
+#+ALB     = "countries/Albania.txt"
 BOH     = "countries/Bohemia.txt"
-#CEL     = "countries/Chelm.txt"
+#+CEL     = "countries/Chelm.txt"
 #GLC     = "countries/Galicia.txt"
 #GRE     = "countries/Greece.txt"
 #HUN     = "countries/Hungary.txt"
