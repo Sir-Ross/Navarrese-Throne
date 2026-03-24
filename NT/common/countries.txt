@@ -59,13 +59,13 @@ REG     = "countries/Regensburg.txt"
 SAA     = "countries/Saarland.txt"
 SAX     = "countries/Saxony.txt"
 SWA     = "countries/Swabia.txt"
-#THU     = "countries/Thuringia.txt"
-#TRR     = "countries/Trier.txt"
-#WRZ     = "countries/Wurzburg.txt"
+THU     = "countries/Thuringia.txt"
+TRR     = "countries/Trier.txt"
+WRZ     = "countries/Wurzburg.txt"
 
 # Northern
 SWE     = "countries/Sweden.txt"
-#SWH     = "countries/Schleswig-Holstein.txt"
+SWH     = "countries/Schleswig-Holstein.txt"
 
 # Eastern
 #ALB     = "countries/Albania.txt"
