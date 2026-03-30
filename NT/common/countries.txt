@@ -76,17 +76,17 @@ GRE     = "countries/Greece.txt"
 HUN     = "countries/Hungary.txt"
 ILL     = "countries/Illyria.txt"
 KRA     = "countries/Krakow.txt"
-#+LEC     = "countries/Leczyca.txt" #between sieradz and mazovia
-#+LIT     = "countries/Lithuania.txt"
-#+LIV     = "countries/Livonia.txt"
-#+MAZ     = "countries/Mazovia.txt"
+LEC     = "countries/Leczyca.txt" #between sieradz and mazovia
+LIT     = "countries/Lithuania.txt"
+LIV     = "countries/Livonia.txt"
+MAZ     = "countries/Mazovia.txt"
 NOV     = "countries/Novgorod.txt"
-#+OTT     = "countries/Ottoman Empire.txt"
-#+PML     = "countries/Pomerelia.txt"
-#+SIR     = "countries/Sieradz.txt" #western one
-#+SLS     = "countries/Silesia.txt" #between krakow and sieradz
-#+SND     = "countries/Sandomierz.txt" #big one under mazovia
-#+WAL     = "countries/Wallachia.txt"
+OTT     = "countries/Ottoman Empire.txt"
+PML     = "countries/Pomerelia.txt"
+SIR     = "countries/Sieradz.txt" #western one
+SLS     = "countries/Silesia.txt" #between krakow and sieradz
+SND     = "countries/Sandomierz.txt" #big one under mazovia
+WAL     = "countries/Wallachia.txt"
 
 ## Africa ##
 
