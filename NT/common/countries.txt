@@ -132,8 +132,8 @@ SFE     = "countries/Swedish Far East.txt"
 #XID     = "countries/Xi.txt"
 
 # Southeast
-#ASM     = "countries/Assam.txt"
-#AYU     = "countries/Ayutthaya.txt"
+#+ASM     = "countries/Assam.txt"
+#+AYU     = "countries/Ayutthaya.txt"
 #CAM     = "countries/Cambodia.txt"
 #DAI     = "countries/Dai Nam.txt"
 #JOH     = "countries/Johor.txt"
@@ -147,10 +147,9 @@ SFE     = "countries/Swedish Far East.txt"
 ####FEI     = "countries/Frisian East Indies.txt" # May just have it be part of Friesland
 #MTA     = "countries/Mataram.txt"
 #NCA     = "countries/New Caledonia.txt"
-#NCO     = "countries/New Cordoba.txt"
 #NHO     = "countries/New Holland.txt"
+#PAG     = "countries/Pagaruyung.txt"
 #PON     = "countries/Pontianak.txt"
-#SAK     = "countries/Siak.txt"
 
 ## New World ##
 
@@ -197,6 +196,7 @@ WSR     = "countries/Weserian Federation.txt"
 
 ## Asia ##
 #CHI     = "countries/China.txt"
+#NCO     = "countries/New Cordoba.txt"
 #PRL     = "countries/Pure Land.txt"
 
 ## Americas ##
@@ -282,6 +282,7 @@ WSR     = "countries/Weserian Federation.txt"
 #CLI     = "countries/Calicut.txt"
 
 # Oceania
+#SAK     = "countries/Siak.txt"
 #TAP     = "countries/Tapanuli.txt"
 
 ## Americas ##
