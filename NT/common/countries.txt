@@ -92,8 +92,8 @@ WAL     = "countries/Wallachia.txt"
 
 # South
 #+GSN     = "countries/Gosen.txt"
-#+SOK     = "countries/Sokoto.txt"
-#+XHO     = "countries/Xhosa.txt"
+#+SOK     = "countries/Sokoto.txt" # Flags from HFM (Might make my own)
+#+XHO     = "countries/Xhosa.txt" # Flags from HFM (Might make my own)
 
 ## Asia ##
 
