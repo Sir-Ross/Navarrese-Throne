@@ -168,12 +168,12 @@ VIN     = "countries/Vinland.txt"
 
 # South America
 BRS     = "countries/Brasil.txt"
-#+CHM     = "countries/Chimor.txt"
+CHM     = "countries/Chimor.txt"
 #GUI     = "countries/Guiana.txt"
 #NGA     = "countries/New Galicia.txt"
 PAT     = "countries/Patagonia.txt"
-#+TIW     = "countries/Tiwanaku.txt"
-#+WAR     = "countries/Wari.txt"
+TIW     = "countries/Tiwanaku.txt"
+WAR     = "countries/Wari.txt"
 
 
 ###### FORMABLE TAGS ######
