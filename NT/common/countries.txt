@@ -91,9 +91,9 @@ WAL     = "countries/Wallachia.txt"
 ## Africa ##
 
 # South
-#GSN     = "countries/Gosen.txt"
-#SOK     = "countries/Sokoto.txt"
-#XHO     = "countries/Xhosa.txt"
+#+GSN     = "countries/Gosen.txt"
+#+SOK     = "countries/Sokoto.txt"
+#+XHO     = "countries/Xhosa.txt"
 
 ## Asia ##
 
