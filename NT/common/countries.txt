@@ -106,8 +106,8 @@ XHO     = "countries/Xhosa.txt" # Flags from HFM (Might make my own)
 
 # Central
 #+BUK     = "countries/Bukhara.txt"
-#GEO     = "countries/Georgia.txt"
-#GOL     = "countries/Golden Horde.txt"
+#+GEO     = "countries/Georgia.txt"
+#+GOL     = "countries/Golden Horde.txt"
 #+KHV     = "countries/Khiva.txt"
 #PER     = "countries/Persia.txt"
 
