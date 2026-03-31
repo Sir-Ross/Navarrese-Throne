@@ -91,24 +91,24 @@ WAL     = "countries/Wallachia.txt"
 ## Africa ##
 
 # South
-#+GSN     = "countries/Gosen.txt"
-#+SOK     = "countries/Sokoto.txt" # Flags from HFM (Might make my own)
-#+XHO     = "countries/Xhosa.txt" # Flags from HFM (Might make my own)
+GSN     = "countries/Gosen.txt"
+SOK     = "countries/Sokoto.txt" # Flags from HFM (Might make my own)
+XHO     = "countries/Xhosa.txt" # Flags from HFM (Might make my own)
 
 ## Asia ##
 
 # Middle East
-#ABY     = "countries/Abyssinia.txt"
-#EGY     = "countries/Egypt.txt"
-#IRQ     = "countries/Iraq.txt"
-#KHL     = "countries/Khalid.txt"
-#OMA     = "countries/Oman.txt"
+#+ABY     = "countries/Abyssinia.txt"
+#+EGY     = "countries/Egypt.txt"
+#+IRQ     = "countries/Iraq.txt"
+#KHL     = "countries/Khalid.txt" # Honestly may refactor/rename if I can't find any flags or symbols
+#+OMA     = "countries/Oman.txt"
 
 # Central
-#BUK     = "countries/Bukhara.txt"
+#+BUK     = "countries/Bukhara.txt"
 #GEO     = "countries/Georgia.txt"
 #GOL     = "countries/Golden Horde.txt"
-#KHV     = "countries/Khiva.txt"
+#+KHV     = "countries/Khiva.txt"
 #PER     = "countries/Persia.txt"
 
 # South
