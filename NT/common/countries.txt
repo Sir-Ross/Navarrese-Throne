@@ -123,21 +123,21 @@ DZU     = "countries/Dzungaria.txt"
 #JAP     = "countries/Japan.txt"
 #KOR     = "countries/Korea.txt"
 #MAN     = "countries/Manchuria.txt"
-#+MNG     = "countries/Ming.txt"
+MNG     = "countries/Ming.txt"
 SEB     = "countries/Sebastines.txt"
 #+SEN     = "countries/Sendai.txt" # formerly Tohoku
 SFE     = "countries/Swedish Far East.txt"
-#+SHU     = "countries/Shun.txt"
-#+XID     = "countries/Xi.txt"
+SHU     = "countries/Shun.txt"
+XID     = "countries/Xi.txt"
 
 # Southeast
-#+ASM     = "countries/Assam.txt"
-#+AYU     = "countries/Ayutthaya.txt"
+ASM     = "countries/Assam.txt"
+AYU     = "countries/Ayutthaya.txt"
 #CAM     = "countries/Cambodia.txt"
-#+DAI     = "countries/Dai Nam.txt"
+DAI     = "countries/Dai Nam.txt"
 #+JOH     = "countries/Johor.txt" # Flags from HFM (Might make my own)
 #LNA     = "countries/Lan Na.txt"
-#+LXA     = "countries/Lan Xang.txt"
+LXA     = "countries/Lan Xang.txt"
 
 # Oceania
 #ACE     = "countries/Aceh.txt"
@@ -155,13 +155,13 @@ SFE     = "countries/Swedish Far East.txt"
 # North America
 ALN     = "countries/Alba Nuadh.txt"
 #COM     = "countries/Comancharia.txt"
-#+GNZ     = "countries/Gonzaria.txt" #Central America #May change name
+GNZ     = "countries/Gonzaria.txt" #Central America #May change name
 MXI     = "countries/Mexigua.txt" #Central Mexico
 NCU     = "countries/New Cuba.txt"
 NFR     = "countries/New Frisia.txt"
 #####NSW     = "countries/New Sweden.txt" # May combine into SFE
 NUN     = "countries/Nunavikland.txt"
-#+PAN     = "countries/Panigua.txt" #Western Mexico
+PAN     = "countries/Panigua.txt" #Western Mexico
 VIN     = "countries/Vinland.txt"
 
 # South America
