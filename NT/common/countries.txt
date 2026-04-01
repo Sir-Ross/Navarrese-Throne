@@ -119,24 +119,23 @@ XHO     = "countries/Xhosa.txt" # Flags from HFM (Might make my own)
 #SKH     = "countries/Sikh Empire.txt"
 
 # East
-#ANH     = "countries/Anhui.txt" ### LIKELY TO BE REMOVED ###
 DZU     = "countries/Dzungaria.txt"
 #JAP     = "countries/Japan.txt"
 #KOR     = "countries/Korea.txt"
 #MAN     = "countries/Manchuria.txt"
-#MNG     = "countries/Ming.txt"
+#+MNG     = "countries/Ming.txt"
 SEB     = "countries/Sebastines.txt"
 #+SEN     = "countries/Sendai.txt" # formerly Tohoku
 SFE     = "countries/Swedish Far East.txt"
-#SHU     = "countries/Shun.txt"
-#XID     = "countries/Xi.txt"
+#+SHU     = "countries/Shun.txt"
+#+XID     = "countries/Xi.txt"
 
 # Southeast
 #+ASM     = "countries/Assam.txt"
 #+AYU     = "countries/Ayutthaya.txt"
 #CAM     = "countries/Cambodia.txt"
 #+DAI     = "countries/Dai Nam.txt"
-#JOH     = "countries/Johor.txt"
+#+JOH     = "countries/Johor.txt" # Flags from HFM (Might make my own)
 #LNA     = "countries/Lan Na.txt"
 #+LXA     = "countries/Lan Xang.txt"
 
