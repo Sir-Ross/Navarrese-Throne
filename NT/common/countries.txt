@@ -155,13 +155,13 @@ SFE     = "countries/Swedish Far East.txt"
 # North America
 ALN     = "countries/Alba Nuadh.txt"
 #COM     = "countries/Comancharia.txt"
-#GNZ     = "countries/Gonzaria.txt" #Central America #May change name
+#+GNZ     = "countries/Gonzaria.txt" #Central America #May change name
 MXI     = "countries/Mexigua.txt" #Central Mexico
 NCU     = "countries/New Cuba.txt"
 NFR     = "countries/New Frisia.txt"
 #####NSW     = "countries/New Sweden.txt" # May combine into SFE
 NUN     = "countries/Nunavikland.txt"
-#PAN     = "countries/Panigua.txt" #Western Mexico
+#+PAN     = "countries/Panigua.txt" #Western Mexico
 VIN     = "countries/Vinland.txt"
 
 # South America
