@@ -112,11 +112,11 @@ XHO     = "countries/Xhosa.txt" # Flags from HFM (Might make my own)
 #PER     = "countries/Persia.txt"
 
 # South
-#HYD     = "countries/Hyderabad.txt"
-#MRT     = "countries/Marathas.txt"
-#MUG     = "countries/Mughal Empire.txt"
-#MYS     = "countries/Mysore.txt"
-#SKH     = "countries/Sikh Empire.txt"
+#+HYD     = "countries/Hyderabad.txt"
+#+MRT     = "countries/Marathas.txt"
+#+MUG     = "countries/Mughal Empire.txt"
+#+MYS     = "countries/Mysore.txt"
+#+SKH     = "countries/Sikh Empire.txt"
 
 # East
 DZU     = "countries/Dzungaria.txt"
