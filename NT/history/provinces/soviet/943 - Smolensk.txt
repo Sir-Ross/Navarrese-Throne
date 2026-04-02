@@ -2,8 +2,7 @@ trade_goods = cattle
 life_rating = 40
 terrain = forested_farmland
 fort = 1
-state_building = {
-	level = 1
-	building = bronze_artillery_factory
-	upgrade = yes
-}
+owner = LIT
+controller = LIT
+add_core = LIT
+state_building = { level = 1 building = bronze_artillery_factory upgrade = yes } 

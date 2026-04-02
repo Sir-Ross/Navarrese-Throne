@@ -1,3 +1,6 @@
+owner = BRT
+controller = BRT
+
 trade_goods = sugar
 life_rating = 35
 terrain = jungle_hills

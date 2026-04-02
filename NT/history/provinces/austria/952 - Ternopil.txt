@@ -1,3 +1,6 @@
 trade_goods = grain
 life_rating = 33
 terrain = good_farmland
+owner = GLV
+controller = GLV
+add_core = GLV

@@ -1,5 +1,6 @@
-
-
 trade_goods = sulphur
 life_rating = 35
 terrain = cold_desert_mountains
+owner = TIW
+controller = TIW
+add_core = TIW

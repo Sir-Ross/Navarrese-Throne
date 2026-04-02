@@ -1,5 +1,7 @@
-
 trade_goods = timber
 life_rating = 20
 terrain = boreal_forest_mountains
 colonial = 1
+owner = SFE
+controller = SFE
+add_core = SFE

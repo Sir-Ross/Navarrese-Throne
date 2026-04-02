@@ -1,4 +1,6 @@
-
 trade_goods = copper
 life_rating = 30
 terrain = seasonal_jungle_mountains
+owner = CHM
+controller = CHM
+add_core = CHM

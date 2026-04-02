@@ -3,3 +3,5 @@ life_rating = 35
 terrain = hilly_grassland
 colonial = 1
 naval_base = 1
+owner = ARN
+controller = ARN

@@ -1,4 +1,7 @@
 trade_goods = fish
 life_rating = 15
 terrain = boreal_forest_hills
-colonial = 2 
+colonial = 2
+owner = SFE
+controller = SFE
+add_core = SFE

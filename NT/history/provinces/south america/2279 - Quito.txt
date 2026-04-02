@@ -1,4 +1,6 @@
-
 trade_goods = fruit
 life_rating = 35
 terrain = mountain_farmland
+owner = CHM
+controller = CHM
+add_core = CHM

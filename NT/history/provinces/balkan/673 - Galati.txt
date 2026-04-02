@@ -1,5 +1,6 @@
 trade_goods = grain
 life_rating = 35
 terrain = good_farmland
-
-
+owner = LIT
+controller = LIT
+add_core = LIT

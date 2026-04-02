@@ -2,3 +2,5 @@ trade_goods = cattle
 life_rating = 35
 terrain = jungle
 colonial = 1
+owner = FRI
+controller = FRI

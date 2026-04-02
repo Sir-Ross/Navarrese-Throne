@@ -3,3 +3,6 @@ life_rating = 30
 terrain = floodplain_farmland
 naval_base = 1
 colonial = 2
+owner = AYU
+controller = AYU
+add_core = AYU

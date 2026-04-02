@@ -1,3 +1,6 @@
 trade_goods = wool
 life_rating = 35
 terrain = temperate_grassland
+owner = GOL
+controller = GOL
+add_core = GOL

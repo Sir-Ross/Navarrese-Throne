@@ -1,3 +1,6 @@
 trade_goods = grain
 life_rating = 31
 terrain = forested_farmland
+owner = KRA
+controller = KRA
+add_core = KRA

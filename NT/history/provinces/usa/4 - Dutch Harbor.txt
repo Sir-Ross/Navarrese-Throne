@@ -2,3 +2,6 @@ colonial = 2
 trade_goods = fish
 life_rating = 20
 terrain = tundra_mountains
+owner = SFE
+controller = SFE
+add_core = SFE

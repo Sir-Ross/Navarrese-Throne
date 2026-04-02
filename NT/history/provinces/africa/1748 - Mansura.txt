@@ -1,3 +1,6 @@
 trade_goods = coffee
 life_rating = 35
 terrain = floodplain_farmland
+owner = EGY
+controller = EGY
+add_core = EGY

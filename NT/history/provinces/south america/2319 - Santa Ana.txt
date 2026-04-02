@@ -1,3 +1,6 @@
 trade_goods = tropical_wood
 life_rating = 30
 terrain = marsh
+owner = TIW
+controller = TIW
+add_core = TIW

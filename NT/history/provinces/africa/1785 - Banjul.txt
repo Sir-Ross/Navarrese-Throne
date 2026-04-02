@@ -3,3 +3,5 @@ trade_goods = fruit
 life_rating = 30
 terrain = seasonal_jungle
 colonial = 1
+owner = OCC
+controller = OCC

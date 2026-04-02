@@ -3,3 +3,5 @@ life_rating = 35
 terrain = jungle_farmland
 colonial = 1
 naval_base = 1
+owner = GHL
+controller = GHL

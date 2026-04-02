@@ -1,3 +1,6 @@
 trade_goods = fruit
 life_rating = 30
 terrain = marsh
+owner = WAR
+controller = WAR
+add_core = WAR

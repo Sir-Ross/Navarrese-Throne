@@ -1,4 +1,6 @@
-
 trade_goods = fish
 life_rating = 10
 terrain = semi_desert_hills
+owner = CHM
+controller = CHM
+add_core = CHM

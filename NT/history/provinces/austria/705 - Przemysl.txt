@@ -1,3 +1,6 @@
 trade_goods = iron
 life_rating = 32
 terrain = deciduous_forest_mountains
+owner = SND
+controller = SND
+add_core = SND

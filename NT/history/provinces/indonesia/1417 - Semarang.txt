@@ -1,3 +1,6 @@
 trade_goods = spices
 life_rating = 30
 terrain = jungle_farmland
+owner = MTA
+controller = MTA
+add_core = MTA

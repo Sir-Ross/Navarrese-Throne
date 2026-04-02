@@ -2,3 +2,5 @@ trade_goods = grain
 life_rating = 25
 terrain = desert_hills
 fort = 1
+owner = FRI
+controller = FRI

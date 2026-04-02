@@ -3,3 +3,5 @@ life_rating = 32
 terrain = jungle_farmland
 colonial = 1
 naval_base = 2
+owner = ARN
+controller = ARN

@@ -3,3 +3,5 @@ life_rating = 30
 terrain = seasonal_jungle_hills
 colonial = 1
 naval_base = 1
+owner = GHL
+controller = GHL

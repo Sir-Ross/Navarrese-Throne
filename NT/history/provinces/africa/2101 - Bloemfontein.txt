@@ -1,3 +1,6 @@
 trade_goods = wool
 life_rating = 35
 terrain = dry_grassland
+owner = GSN
+controller = GSN
+add_core = GSN

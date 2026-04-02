@@ -3,3 +3,6 @@ life_rating = 30
 terrain = jungle_farmland
 colonial = 1
 naval_base = 1
+owner = JOH
+controller = JOH
+add_core = JOH

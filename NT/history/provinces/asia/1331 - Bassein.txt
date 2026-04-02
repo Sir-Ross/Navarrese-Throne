@@ -2,3 +2,6 @@ trade_goods = fish
 life_rating = 30
 terrain = floodplain_farmland
 colonial = 2
+owner = AYU
+controller = AYU
+add_core = AYU

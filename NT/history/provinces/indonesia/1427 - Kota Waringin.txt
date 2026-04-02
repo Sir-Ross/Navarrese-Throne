@@ -1,3 +1,7 @@
+owner = PON
+controller = PON
+add_core = PON
+
 trade_goods = spices
 life_rating = 15
 terrain = jungle_farmland

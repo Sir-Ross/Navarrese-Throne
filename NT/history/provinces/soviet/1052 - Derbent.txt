@@ -1,3 +1,6 @@
-#trade_goods = tobacco
+# trade_goods = tobacco
 life_rating = 35
 terrain = conifer_forest_mountains
+owner = GOL
+controller = GOL
+add_core = GOL

@@ -1,4 +1,6 @@
-
 trade_goods = tea
 life_rating = 35
 terrain = forested_farmland
+owner = GEO
+controller = GEO
+add_core = GEO

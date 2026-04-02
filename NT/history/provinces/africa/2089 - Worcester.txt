@@ -3,3 +3,5 @@ life_rating = 35
 terrain = mountain_grassland
 colonial = 2
 fort = 1
+owner = FRI
+controller = FRI

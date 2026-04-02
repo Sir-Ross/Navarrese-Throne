@@ -1,3 +1,6 @@
 trade_goods = tropical_wood
 life_rating = 15
 terrain = jungle_mountains
+owner = BLU
+controller = BLU
+add_core = BLU

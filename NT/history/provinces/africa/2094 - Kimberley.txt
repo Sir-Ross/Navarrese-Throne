@@ -2,3 +2,6 @@ trade_goods = lead
 life_rating = 25
 terrain = hilly_grassland
 fort = 1
+owner = GSN
+controller = GSN
+add_core = GSN

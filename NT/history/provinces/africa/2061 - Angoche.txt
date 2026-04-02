@@ -2,3 +2,5 @@ trade_goods = tobacco
 life_rating = 35
 terrain = dry_forest
 colonial = 1
+owner = GHL
+controller = GHL

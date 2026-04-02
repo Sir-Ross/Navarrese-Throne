@@ -1,3 +1,6 @@
 trade_goods = tea
 life_rating = 30
 terrain = floodplain_farmland
+owner = SHU
+controller = SHU
+add_core = SHU

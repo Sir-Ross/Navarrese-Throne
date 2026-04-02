@@ -1,4 +1,6 @@
-
 trade_goods = wool
 life_rating = 35
 terrain = mountain_grassland
+owner = WAR
+controller = WAR
+add_core = WAR

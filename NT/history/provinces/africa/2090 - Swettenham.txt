@@ -3,3 +3,5 @@ life_rating = 35
 terrain = hilly_farmland
 colonial = 2
 fort = 1
+owner = FRI
+controller = FRI

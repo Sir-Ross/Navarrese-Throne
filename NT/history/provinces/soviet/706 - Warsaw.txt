@@ -1,13 +1,14 @@
 trade_goods = cattle
 life_rating = 35
 terrain = marginal_farmland
-#state_building = {
-#	level = 2 
-#	building = fabric_factory
-#	upgrade = yes
-#}
-state_building = {
-	level = 1
-	building = stables
-	upgrade = yes
-}
+owner = MAZ
+controller = MAZ
+add_core = MAZ
+################################################################################
+# state_building = {
+# level = 2
+# building = fabric_factory
+# upgrade = yes
+# }
+################################################################################
+state_building = { level = 1 building = stables upgrade = yes } 

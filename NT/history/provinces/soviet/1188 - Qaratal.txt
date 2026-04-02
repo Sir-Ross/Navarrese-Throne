@@ -1,3 +1,6 @@
 trade_goods = grain
 life_rating = 25
 terrain = mountain_grassland
+owner = GOL
+controller = GOL
+add_core = GOL

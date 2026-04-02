@@ -1,4 +1,6 @@
-
 trade_goods = cattle
 life_rating = 35
 terrain = temperate_grassland
+owner = WAR
+controller = WAR
+add_core = WAR

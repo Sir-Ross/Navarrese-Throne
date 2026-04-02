@@ -1,4 +1,6 @@
-
 trade_goods = sugar
 life_rating = 33
 terrain = mountain_grassland
+owner = GOL
+controller = GOL
+add_core = GOL

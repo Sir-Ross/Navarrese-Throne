@@ -1,3 +1,6 @@
 trade_goods = coffee
 life_rating = 30
 terrain = jungle_hills
+owner = BRU
+controller = BRU
+add_core = BRU

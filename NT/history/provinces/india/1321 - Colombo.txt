@@ -3,3 +3,5 @@ life_rating = 31
 terrain = jungle_farmland
 naval_base = 1
 colonial = 1
+owner = FRI
+controller = FRI

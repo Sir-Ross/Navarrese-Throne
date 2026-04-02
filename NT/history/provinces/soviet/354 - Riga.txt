@@ -3,8 +3,6 @@ life_rating = 35
 terrain = forested_farmland
 naval_base = 1
 fort = 1
-#state_building = {
-#	level = 1
-#	building = glass_factory
-#	upgrade = yes
-#}
+owner = LIV
+controller = LIV
+add_core = LIV

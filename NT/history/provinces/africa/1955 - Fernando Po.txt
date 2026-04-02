@@ -1,3 +1,5 @@
 trade_goods = wool
 life_rating = 35
 colonial = 1
+owner = BRG
+controller = BRG

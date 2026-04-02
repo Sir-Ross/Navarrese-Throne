@@ -1,4 +1,6 @@
-
 trade_goods = tropical_wood
 life_rating = 25
 terrain = swamp_jungle
+owner = TIW
+controller = TIW
+add_core = TIW

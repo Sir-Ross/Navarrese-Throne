@@ -1,3 +1,6 @@
 trade_goods = sulphur
 life_rating = 15
 terrain = swamp_jungle
+owner = BLU
+controller = BLU
+add_core = BLU

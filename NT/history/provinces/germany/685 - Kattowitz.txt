@@ -1,3 +1,6 @@
 trade_goods = coal
 life_rating = 40
 terrain = forested_farmland
+owner = SLS
+controller = SLS
+add_core = SLS

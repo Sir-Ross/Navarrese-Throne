@@ -1,3 +1,5 @@
 trade_goods = fruit
 life_rating = 35
 terrain = hilly_grassland
+owner = GHL
+controller = GHL

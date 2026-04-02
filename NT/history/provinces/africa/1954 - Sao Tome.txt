@@ -2,3 +2,5 @@ trade_goods = coffee
 life_rating = 35
 terrain = small_island
 colonial = 1
+owner = BRG
+controller = BRG

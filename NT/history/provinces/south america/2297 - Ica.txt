@@ -1,4 +1,6 @@
-
 trade_goods = fish
 life_rating = 35
 terrain = desert_hills
+owner = TIW
+controller = TIW
+add_core = TIW

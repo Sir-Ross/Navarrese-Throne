@@ -1,4 +1,6 @@
-
 trade_goods = wool
 life_rating = 30
 terrain = swamp_jungle
+owner = CHM
+controller = CHM
+add_core = CHM

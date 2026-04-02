@@ -1,5 +1,6 @@
-
-
 trade_goods = copper
 life_rating = 40
 terrain = mountain_farmland
+owner = TIW
+controller = TIW
+add_core = TIW
