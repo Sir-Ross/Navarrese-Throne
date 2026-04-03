@@ -120,9 +120,9 @@ SKH     = "countries/Sikh Empire.txt"
 
 # East
 DZU     = "countries/Dzungaria.txt"
-#JAP     = "countries/Japan.txt"
-#KOR     = "countries/Korea.txt"
-#MAN     = "countries/Manchuria.txt"
+JAP     = "countries/Japan.txt"
+KOR     = "countries/Korea.txt"
+MAN     = "countries/Manchuria.txt"
 MNG     = "countries/Ming.txt"
 SEB     = "countries/Sebastines.txt"
 SEN     = "countries/Sendai.txt" # formerly Tohoku
