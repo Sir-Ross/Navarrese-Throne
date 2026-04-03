@@ -98,25 +98,25 @@ XHO     = "countries/Xhosa.txt" # Flags from HFM (Might make my own)
 ## Asia ##
 
 # Middle East
-#+ABY     = "countries/Abyssinia.txt"
-#+EGY     = "countries/Egypt.txt"
-#+IRQ     = "countries/Iraq.txt"
+ABY     = "countries/Abyssinia.txt"
+EGY     = "countries/Egypt.txt"
+IRQ     = "countries/Iraq.txt"
 #KHL     = "countries/Khalid.txt" # Honestly may refactor/rename if I can't find any flags or symbols
-#+OMA     = "countries/Oman.txt"
+OMA     = "countries/Oman.txt"
 
 # Central
-#+BUK     = "countries/Bukhara.txt"
-#+GEO     = "countries/Georgia.txt"
-#+GOL     = "countries/Golden Horde.txt"
-#+KHV     = "countries/Khiva.txt"
+BUK     = "countries/Bukhara.txt"
+GEO     = "countries/Georgia.txt"
+GOL     = "countries/Golden Horde.txt"
+KHV     = "countries/Khiva.txt"
 #PER     = "countries/Persia.txt"
 
 # South
-#+HYD     = "countries/Hyderabad.txt"
-#+MRT     = "countries/Marathas.txt"
-#+MUG     = "countries/Mughal Empire.txt"
-#+MYS     = "countries/Mysore.txt"
-#+SKH     = "countries/Sikh Empire.txt"
+HYD     = "countries/Hyderabad.txt"
+MRT     = "countries/Marathas.txt"
+MUG     = "countries/Mughalistan.txt"
+MYS     = "countries/Mysore.txt"
+SKH     = "countries/Sikh Empire.txt"
 
 # East
 DZU     = "countries/Dzungaria.txt"
@@ -125,7 +125,7 @@ DZU     = "countries/Dzungaria.txt"
 #MAN     = "countries/Manchuria.txt"
 MNG     = "countries/Ming.txt"
 SEB     = "countries/Sebastines.txt"
-#+SEN     = "countries/Sendai.txt" # formerly Tohoku
+SEN     = "countries/Sendai.txt" # formerly Tohoku
 SFE     = "countries/Swedish Far East.txt"
 SHU     = "countries/Shun.txt"
 XID     = "countries/Xi.txt"
@@ -133,16 +133,16 @@ XID     = "countries/Xi.txt"
 # Southeast
 ASM     = "countries/Assam.txt"
 AYU     = "countries/Ayutthaya.txt"
-#+CAM     = "countries/Cambodia.txt"
+CAM     = "countries/Cambodia.txt"
 DAI     = "countries/Dai Nam.txt"
-#+JOH     = "countries/Johor.txt" # Flags from HFM (Might make my own)
+JOH     = "countries/Johor.txt" # Flags from HFM (Might make my own)
 #LNA     = "countries/Lan Na.txt"
 LXA     = "countries/Lan Xang.txt"
 
 # Oceania
-#+ACE     = "countries/Aceh.txt"
-#+BLU     = "countries/Bulungan.txt" # east borneo
-#+BRU     = "countries/Brunei.txt"
+ACE     = "countries/Aceh.txt"
+BLU     = "countries/Bulungan.txt" # east borneo
+BRU     = "countries/Brunei.txt"
 ####FEI     = "countries/Frisian East Indies.txt" # May just have it be part of Friesland
 #MTA     = "countries/Mataram.txt" # java
 #NCA     = "countries/New Caledonia.txt"
