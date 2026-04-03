@@ -1,3 +1,6 @@
 trade_goods = wool
 life_rating = 30
 terrain = semi_desert_mountains
+owner = MUG
+controller = MUG
+add_core = MUG

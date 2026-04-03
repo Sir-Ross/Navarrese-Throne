@@ -1,4 +1,6 @@
-
 trade_goods = lead
 life_rating = 30
 terrain = temperate_grassland
+owner = NHO
+controller = NHO
+add_core = NHO

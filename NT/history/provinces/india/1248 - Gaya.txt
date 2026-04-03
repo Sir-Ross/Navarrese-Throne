@@ -1,3 +1,6 @@
 trade_goods = opium
 life_rating = 31
 terrain = forested_farmland
+owner = MUG
+controller = MUG
+add_core = MUG

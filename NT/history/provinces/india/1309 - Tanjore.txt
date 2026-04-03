@@ -1,4 +1,6 @@
-
-#trade_goods = dye
+# trade_goods = dye
 life_rating = 35
 terrain = floodplain_farmland
+owner = MYS
+controller = MYS
+add_core = MYS

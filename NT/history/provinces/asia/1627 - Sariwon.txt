@@ -2,3 +2,6 @@ trade_goods = iron
 life_rating = 35
 terrain = hilly_farmland
 fort = 1
+owner = KOR
+controller = KOR
+add_core = KOR

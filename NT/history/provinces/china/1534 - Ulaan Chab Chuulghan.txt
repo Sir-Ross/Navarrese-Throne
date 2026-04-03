@@ -1,3 +1,6 @@
 trade_goods = horses
 life_rating = 31
 terrain = hilly_grassland
+owner = MAN
+controller = MAN
+add_core = MAN

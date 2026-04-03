@@ -1,4 +1,6 @@
-
 trade_goods = grain
 life_rating = 35
 terrain = hills
+owner = PER
+controller = PER
+add_core = PER

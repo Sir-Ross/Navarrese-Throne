@@ -1,3 +1,6 @@
-#trade_goods = spices
+# trade_goods = spices
 life_rating = 32
 terrain = seasonal_jungle
+owner = MYS
+controller = MYS
+add_core = MYS

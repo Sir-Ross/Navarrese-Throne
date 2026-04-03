@@ -1,9 +1,7 @@
-
 colonial = 2
 trade_goods = cattle
 life_rating = 30
 terrain = marsh
-          
-
- 
-
+owner = NGA
+controller = NGA
+add_core = NGA

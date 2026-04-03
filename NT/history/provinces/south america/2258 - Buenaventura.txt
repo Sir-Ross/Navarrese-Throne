@@ -1,5 +1,7 @@
-
 colonial = 2
 trade_goods = fish
 life_rating = 30
 terrain = jungle
+owner = NGA
+controller = NGA
+add_core = NGA

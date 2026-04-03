@@ -1,3 +1,6 @@
 trade_goods = cotton
 life_rating = 32
 terrain = forested_farmland
+owner = MUG
+controller = MUG
+add_core = MUG

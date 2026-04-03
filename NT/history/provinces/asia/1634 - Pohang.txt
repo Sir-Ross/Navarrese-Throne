@@ -1,4 +1,7 @@
 trade_goods = coal
 life_rating = 35
 terrain = deciduous_forest_hills
-colonial = 2 
+colonial = 2
+owner = JAP
+controller = JAP
+add_core = JAP

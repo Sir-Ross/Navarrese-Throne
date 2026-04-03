@@ -1,3 +1,6 @@
 trade_goods = sugar
 life_rating = 30
 terrain = dry_forest_hills
+owner = MRT
+controller = MRT
+add_core = MRT

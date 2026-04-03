@@ -1,3 +1,6 @@
 trade_goods = copper
 life_rating = 35
 terrain = dry_forest
+owner = NHO
+controller = NHO
+add_core = NHO

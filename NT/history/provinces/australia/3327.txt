@@ -1,4 +1,6 @@
-
 trade_goods = iron
 life_rating = 35
 terrain = dry_forest
+owner = NCA
+controller = NCA
+add_core = NCA

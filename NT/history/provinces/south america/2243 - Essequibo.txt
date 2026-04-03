@@ -1,9 +1,7 @@
-
 colonial = 2
 trade_goods = fruit
 life_rating = 30
 terrain = swamp_jungle
-          
-
- 
-
+owner = GUI
+controller = GUI
+add_core = GUI

@@ -1,3 +1,6 @@
 trade_goods = fruit
 life_rating = 35
 terrain = mountain
+owner = NHO
+controller = NHO
+add_core = NHO

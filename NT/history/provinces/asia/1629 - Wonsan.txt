@@ -2,3 +2,6 @@ trade_goods = grain
 life_rating = 35
 terrain = deciduous_forest_mountains
 fort = 1
+owner = KOR
+controller = KOR
+add_core = KOR

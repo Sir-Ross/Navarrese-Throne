@@ -1,5 +1,7 @@
-
 naval_base = 1
 trade_goods = wool
 life_rating = 35
 terrain = forested_farmland
+owner = NHO
+controller = NHO
+add_core = NHO

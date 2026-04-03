@@ -1,4 +1,7 @@
 trade_goods = silk
 life_rating = 30
 colonial = 2
-naval_base = 1 
+naval_base = 1
+owner = MYS
+controller = MYS
+add_core = MYS

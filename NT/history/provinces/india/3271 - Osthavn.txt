@@ -1,4 +1,7 @@
-#trade_goods = precious_goods
+# trade_goods = precious_goods
 life_rating = 30
 colonial = 2
-naval_base = 1 
+naval_base = 1
+owner = MUG
+controller = MUG
+add_core = MUG

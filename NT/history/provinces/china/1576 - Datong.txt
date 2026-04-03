@@ -1,3 +1,6 @@
 trade_goods = lead
 life_rating = 32
 terrain = mountain
+owner = MAN
+controller = MAN
+add_core = MAN

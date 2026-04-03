@@ -1,3 +1,6 @@
 trade_goods = tea
 life_rating = 30
 terrain = conifer_forest_mountains
+owner = SKH
+controller = SKH
+add_core = SKH

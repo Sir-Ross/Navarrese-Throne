@@ -1,3 +1,6 @@
 trade_goods = grain
 life_rating = 30
 terrain = deciduous_forest_hills
+owner = NHO
+controller = NHO
+add_core = NHO

@@ -1,8 +1,7 @@
-
 colonial = 2
 trade_goods = tropical_wood
 life_rating = 35
-terrain = jungle   
-
- 
-
+terrain = jungle
+owner = GUI
+controller = GUI
+add_core = GUI

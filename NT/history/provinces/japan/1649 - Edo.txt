@@ -2,3 +2,6 @@ trade_goods = grain
 life_rating = 35
 terrain = good_farmland
 fort = 1
+owner = JAP
+controller = JAP
+add_core = JAP

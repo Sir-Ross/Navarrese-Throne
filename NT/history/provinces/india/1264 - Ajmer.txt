@@ -1,3 +1,6 @@
 trade_goods = cotton
 life_rating = 33
 terrain = semi_desert_hills
+owner = MUG
+controller = MUG
+add_core = MUG

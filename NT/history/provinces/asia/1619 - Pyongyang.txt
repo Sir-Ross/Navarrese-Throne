@@ -3,3 +3,6 @@ life_rating = 35
 terrain = deciduous_forest_hills
 naval_base = 1
 fort = 2
+owner = KOR
+controller = KOR
+add_core = KOR

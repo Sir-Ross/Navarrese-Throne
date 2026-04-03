@@ -1,4 +1,6 @@
-
 trade_goods = timber
 life_rating = 35
 terrain = semi_desert
+owner = MAN
+controller = MAN
+add_core = MAN

@@ -1,4 +1,6 @@
-
 trade_goods = cattle
 life_rating = 35
 terrain = conifer_forest_hills
+owner = MAN
+controller = MAN
+add_core = MAN

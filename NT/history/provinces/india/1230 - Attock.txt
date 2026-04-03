@@ -1,3 +1,6 @@
 trade_goods = wool
 life_rating = 34
 terrain = hilly_farmland
+owner = SKH
+controller = SKH
+add_core = SKH

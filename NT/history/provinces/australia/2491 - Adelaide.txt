@@ -1,4 +1,6 @@
-
 trade_goods = iron
 life_rating = 35
 terrain = marginal_farmland
+owner = NHO
+controller = NHO
+add_core = NHO

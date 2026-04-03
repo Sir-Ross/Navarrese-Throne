@@ -1,4 +1,6 @@
-
 trade_goods = fish
 life_rating = 20
 terrain = dry_grassland
+owner = NCA
+controller = NCA
+add_core = NCA

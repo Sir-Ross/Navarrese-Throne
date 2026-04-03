@@ -1,3 +1,6 @@
 trade_goods = wool
 life_rating = 35
 terrain = tundra_mountains
+owner = SKH
+controller = SKH
+add_core = SKH

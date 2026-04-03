@@ -1,3 +1,6 @@
 trade_goods = sulphur
 life_rating = 35
 terrain = hilly_farmland
+owner = MRT
+controller = MRT
+add_core = MRT

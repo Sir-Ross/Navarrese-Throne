@@ -1,4 +1,7 @@
 trade_goods = grain
 life_rating = 35
 terrain = mountain_farmland
-colonial = 2 
+colonial = 2
+owner = JAP
+controller = JAP
+add_core = JAP

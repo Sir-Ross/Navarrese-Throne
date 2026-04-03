@@ -1,4 +1,6 @@
-
 trade_goods = iron
 life_rating = 35
 terrain = mountain
+owner = PER
+controller = PER
+add_core = PER

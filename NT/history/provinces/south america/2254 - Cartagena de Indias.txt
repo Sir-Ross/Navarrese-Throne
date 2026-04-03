@@ -3,3 +3,6 @@ trade_goods = sugar
 life_rating = 30
 terrain = good_farmland
 naval_base = 2
+owner = NGA
+controller = NGA
+add_core = NGA

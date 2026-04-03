@@ -1,5 +1,7 @@
-
 colonial = 2
 trade_goods = copper
 life_rating = 30
 terrain = mountain_farmland
+owner = NGA
+controller = NGA
+add_core = NGA
