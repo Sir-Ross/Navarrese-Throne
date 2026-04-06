@@ -101,7 +101,7 @@ XHO     = "countries/Xhosa.txt" # Flags from HFM (Might make my own)
 ABY     = "countries/Abyssinia.txt"
 EGY     = "countries/Egypt.txt"
 IRQ     = "countries/Iraq.txt"
-#KHL     = "countries/Khalid.txt" # Honestly may refactor/rename if I can't find any flags or symbols
+KHL     = "countries/Khalid.txt" # Honestly may refactor/rename if I can't find any flags or symbols
 OMA     = "countries/Oman.txt"
 
 # Central
