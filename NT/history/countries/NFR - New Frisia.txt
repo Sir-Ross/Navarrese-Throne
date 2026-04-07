@@ -7,3 +7,14 @@ plurality = 0.1
 nationalvalue = nv_equality
 literacy = 0.48
 civilized = yes
+
+ruling_party = NFR_conservative
+upper_house = {
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
