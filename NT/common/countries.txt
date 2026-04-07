@@ -135,7 +135,7 @@ ASM     = "countries/Assam.txt"
 AYU     = "countries/Ayutthaya.txt"
 CAM     = "countries/Cambodia.txt"
 DAI     = "countries/Dai Nam.txt"
-JOH     = "countries/Johor.txt" # Flags from HFM (Might make my own)
+JOH     = "countries/Johore.txt" # Flags from HFM (Might make my own)
 LNA     = "countries/Lan Na.txt"
 LXA     = "countries/Lan Xang.txt"
 
