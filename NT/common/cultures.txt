@@ -23,7 +23,7 @@ portuguese_american_cultures = {
 		}
 	}
 	cubano = {
-		color = { 40 90 100 }
+		color = { 30 80 100 }
 		first_names = { Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
 		Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano
 		"Francisco de Paula" "Francisco Xavier" Federico Gaspar Gastão Getúlio Henrique Hermes Humberto Isaías
