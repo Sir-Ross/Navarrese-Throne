@@ -1,6 +1,94 @@
 # Do not change tags in here without changing every other reference to them.
 # If adding new groups or cultures, make sure they are unique.
 
+# Navarrese Throne cultures
+
+portuguese_american_cultures = {
+	leader = european
+	unit = SpanishGC
+	# for now, all of these names are just the Brazilian names
+    comancharo = {
+		color = { 50 90 90 }
+		first_names = { Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
+		Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano
+		"Francisco de Paula" "Francisco Xavier" Federico Gaspar Gastão Getúlio Henrique Hermes Humberto Isaías
+		João Joaquim José Júlio Juscelino Luís Manuel "Marco Antônio" Mário Miguel
+		Nereu Nilo Paulo Pedro Prudente Silviano Tancredo Urbano Venceslau Vital
+		}
+		last_names = { Barreto Bernardes Bittencourt Brandão Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"
+		"da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragança" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
+		"de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvão Jordão
+		Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
+		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
+		}
+	}
+	cubano = {
+		color = { 40 90 100 }
+		first_names = { Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
+		Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano
+		"Francisco de Paula" "Francisco Xavier" Federico Gaspar Gastão Getúlio Henrique Hermes Humberto Isaías
+		João Joaquim José Júlio Juscelino Luís Manuel "Marco Antônio" Mário Miguel
+		Nereu Nilo Paulo Pedro Prudente Silviano Tancredo Urbano Venceslau Vital
+		}
+		last_names = { Barreto Bernardes Bittencourt Brandão Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"
+		"da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragança" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
+		"de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvão Jordão
+		Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
+		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
+		}
+	}
+	gonzian = {
+		color = { 40 100 110 }
+		first_names = { Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
+		Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano
+		"Francisco de Paula" "Francisco Xavier" Federico Gaspar Gastão Getúlio Henrique Hermes Humberto Isaías
+		João Joaquim José Júlio Juscelino Luís Manuel "Marco Antônio" Mário Miguel
+		Nereu Nilo Paulo Pedro Prudente Silviano Tancredo Urbano Venceslau Vital
+		}
+		last_names = { Barreto Bernardes Bittencourt Brandão Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"
+		"da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragança" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
+		"de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvão Jordão
+		Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
+		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
+		}
+	}
+	mexiguan = {
+		color = { 60 110 90 }
+		first_names = { Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
+		Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano
+		"Francisco de Paula" "Francisco Xavier" Federico Gaspar Gastão Getúlio Henrique Hermes Humberto Isaías
+		João Joaquim José Júlio Juscelino Luís Manuel "Marco Antônio" Mário Miguel
+		Nereu Nilo Paulo Pedro Prudente Silviano Tancredo Urbano Venceslau Vital
+		}
+		last_names = { Barreto Bernardes Bittencourt Brandão Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"
+		"da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragança" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
+		"de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvão Jordão
+		Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
+		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
+		}
+	}
+	paniguan = {
+		color = { 40 70 90 }
+		first_names = { Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
+		Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano
+		"Francisco de Paula" "Francisco Xavier" Federico Gaspar Gastão Getúlio Henrique Hermes Humberto Isaías
+		João Joaquim José Júlio Juscelino Luís Manuel "Marco Antônio" Mário Miguel
+		Nereu Nilo Paulo Pedro Prudente Silviano Tancredo Urbano Venceslau Vital
+		}
+		last_names = { Barreto Bernardes Bittencourt Brandão Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"
+		"da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragança" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
+		"de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvão Jordão
+		Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
+		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
+		}
+	}
+
+	union = LAV
+}
+
+
+# HFM cultures
+
 germanic = {
 	leader = european
 	unit = EuropeanGC
