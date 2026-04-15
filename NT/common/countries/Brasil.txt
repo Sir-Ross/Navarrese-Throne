@@ -2,7 +2,7 @@ color = { 177  129  125 }
 graphical_culture = SouthAmericanGC
 
 party = {
-	name = "BRS_conservative"
+	name = "BRA_conservative"
 	start_date = 1830.1.1
 	end_date = 1940.1.1
 
