@@ -166,7 +166,7 @@ PAN     = "countries/Panigua.txt" #Western Mexico
 VIN     = "countries/Vinland.txt"
 
 # South America
-BRA     = "countries/Brasil.txt"
+BRS     = "countries/Brasil.txt"
 CHM     = "countries/Chimor.txt"
 GUI     = "countries/Guiana.txt"
 NGA     = "countries/New Galicia.txt"
