@@ -10,169 +10,169 @@ REB     = "countries/rebels.txt"
 ## Europe ##
 
 # Western
-AUV     = "countries/Auvergne.txt"
-BRG     = "countries/Burgundy.txt"
-BRT     = "countries/Brittany.txt"
+#+AUV     = "countries/Auvergne.txt"
+#+BRG     = "countries/Burgundy.txt"
+#+BRT     = "countries/Brittany.txt"
 GHL     = "countries/Gaidhealand.txt" # formerly Bretonnia
-HAN     = "countries/Hanover.txt"
+#+HAN     = "countries/Hanover.txt"
 FRI     = "countries/Friesland.txt"
-LOR     = "countries/Lorraine.txt"
+#+LOR     = "countries/Lorraine.txt"
 OCC     = "countries/Occitania.txt"
 
 # Southern
 ARN     = "countries/Aragon.txt"
-BER     = "countries/Bern.txt"
-PAP     = "countries/Papal States.txt"
-PIE     = "countries/Piedmont.txt"
+#+BER     = "countries/Bern.txt"
+#+PAP     = "countries/Papal States.txt"
+#+PIE     = "countries/Piedmont.txt"
 POR     = "countries/Portugal.txt"
-SIC     = "countries/Sicily.txt"
-SVY     = "countries/Savoy.txt"
-TLG     = "countries/Three Leagues.txt"
-TUS     = "countries/Tuscany.txt"
-VAL     = "countries/Valais.txt"
-VAU     = "countries/Vaud.txt"
-VEN     = "countries/Venice.txt"
+#+SIC     = "countries/Sicily.txt"
+#+SVY     = "countries/Savoy.txt"
+#+TLG     = "countries/Three Leagues.txt"
+#+TUS     = "countries/Tuscany.txt"
+#+VAL     = "countries/Valais.txt"
+#+VAU     = "countries/Vaud.txt"
+#+VEN     = "countries/Venice.txt"
 
 # Central
-ALM     = "countries/Altmark.txt"
-ALS     = "countries/Elsass.txt"
-ANS     = "countries/Ansbach.txt"
-AUS     = "countries/Austria.txt"
-BAD     = "countries/Baden-Wurttemberg.txt"
-BAV     = "countries/Bavaria.txt"
-BRN     = "countries/Brandenberg.txt"
-BRE     = "countries/Bremen.txt"
-CLV     = "countries/Cleves.txt"
-COB     = "countries/Saxe-Coburg-Gotha.txt"
-DSS     = "countries/Berg.txt"
-HES     = "countries/Hesse.txt"
-KLN     = "countries/Koln.txt"
-LNB     = "countries/Luneburg.txt"
-LUB     = "countries/Lubeck.txt"
-LUX     = "countries/Luxemburg.txt"
-MAG     = "countries/Magdeburg.txt"
-MNZ     = "countries/Mainz.txt"
-MUN     = "countries/Munster.txt"
-NAS     = "countries/Nassau.txt"
-PAL     = "countries/Palatinate.txt"
-REG     = "countries/Regensburg.txt"
-SAA     = "countries/Saarland.txt"
-SAX     = "countries/Saxony.txt"
-SWA     = "countries/Swabia.txt"
-THU     = "countries/Thuringia.txt"
-TRR     = "countries/Trier.txt"
-WRZ     = "countries/Wurzburg.txt"
+#+ALM     = "countries/Altmark.txt"
+#+ALS     = "countries/Elsass.txt"
+#+ANS     = "countries/Ansbach.txt"
+#+AUS     = "countries/Austria.txt"
+#+BAD     = "countries/Baden-Wurttemberg.txt"
+#+BAV     = "countries/Bavaria.txt"
+#+BRN     = "countries/Brandenberg.txt"
+#+BRE     = "countries/Bremen.txt"
+#+CLV     = "countries/Cleves.txt"
+#+COB     = "countries/Saxe-Coburg-Gotha.txt"
+#+DSS     = "countries/Berg.txt"
+#+HES     = "countries/Hesse.txt"
+#+KLN     = "countries/Koln.txt"
+#+LNB     = "countries/Luneburg.txt"
+#+LUB     = "countries/Lubeck.txt"
+#+LUX     = "countries/Luxemburg.txt"
+#+MAG     = "countries/Magdeburg.txt"
+#+MNZ     = "countries/Mainz.txt"
+#+MUN     = "countries/Munster.txt"
+#+NAS     = "countries/Nassau.txt"
+#+PAL     = "countries/Palatinate.txt"
+#+REG     = "countries/Regensburg.txt"
+#+SAA     = "countries/Saarland.txt"
+#+SAX     = "countries/Saxony.txt"
+#+SWA     = "countries/Swabia.txt"
+#+THU     = "countries/Thuringia.txt"
+#+TRR     = "countries/Trier.txt"
+#+WRZ     = "countries/Wurzburg.txt"
 
 # Northern
-SWE     = "countries/Sweden.txt"
-SWH     = "countries/Schleswig-Holstein.txt"
+#+SWE     = "countries/Sweden.txt"
+#+SWH     = "countries/Schleswig-Holstein.txt"
 
 # Eastern
-ALB     = "countries/Albania.txt"
-BOH     = "countries/Bohemia.txt"
-CEL     = "countries/Chelm.txt" #pointy one
-GLV     = "countries/Galicia-Volhynia.txt" # differentiated from Iberia
-GRE     = "countries/Greece.txt"
-HUN     = "countries/Hungary.txt"
-ILL     = "countries/Illyria.txt"
-KRA     = "countries/Krakow.txt"
-LEC     = "countries/Leczyca.txt" #between sieradz and mazovia
-LIT     = "countries/Lithuania.txt"
-LIV     = "countries/Livonia.txt"
-MAZ     = "countries/Mazovia.txt"
-NOV     = "countries/Novgorod.txt"
-OTT     = "countries/Ottoman Empire.txt"
-PML     = "countries/Pomerelia.txt"
-SIR     = "countries/Sieradz.txt" #western one
-SLS     = "countries/Silesia.txt" #between krakow and sieradz
-SND     = "countries/Sandomierz.txt" #big one under mazovia
-WAL     = "countries/Wallachia.txt"
+#+ALB     = "countries/Albania.txt"
+#+BOH     = "countries/Bohemia.txt"
+#+CEL     = "countries/Chelm.txt" #pointy one
+#+GLV     = "countries/Galicia-Volhynia.txt" # differentiated from Iberia
+#+GRE     = "countries/Greece.txt"
+#+HUN     = "countries/Hungary.txt"
+#+ILL     = "countries/Illyria.txt"
+#+KRA     = "countries/Krakow.txt"
+#+LEC     = "countries/Leczyca.txt" #between sieradz and mazovia
+#+LIT     = "countries/Lithuania.txt"
+#+LIV     = "countries/Livonia.txt"
+#+MAZ     = "countries/Mazovia.txt"
+#+NOV     = "countries/Novgorod.txt"
+#+OTT     = "countries/Ottoman Empire.txt"
+#+PML     = "countries/Pomerelia.txt"
+#+SIR     = "countries/Sieradz.txt" #western one
+#+SLS     = "countries/Silesia.txt" #between krakow and sieradz
+#+SND     = "countries/Sandomierz.txt" #big one under mazovia
+#+WAL     = "countries/Wallachia.txt"
 
 ## Africa ##
 
 # South
-GSN     = "countries/Gosen.txt"
-SOK     = "countries/Sokoto.txt" # Flags from HFM (Might make my own)
-XHO     = "countries/Xhosa.txt" # Flags from HFM (Might make my own)
+#+GSN     = "countries/Gosen.txt"
+#+SOK     = "countries/Sokoto.txt" # Flags from HFM (Might make my own)
+#+XHO     = "countries/Xhosa.txt" # Flags from HFM (Might make my own)
 
 ## Asia ##
 
 # Middle East
-ABY     = "countries/Abyssinia.txt"
-EGY     = "countries/Egypt.txt"
-IRQ     = "countries/Iraq.txt"
-KHL     = "countries/Khalid.txt" # Honestly may refactor/rename if I can't find any flags or symbols
-OMA     = "countries/Oman.txt"
+#+ABY     = "countries/Abyssinia.txt"
+#+EGY     = "countries/Egypt.txt"
+#+IRQ     = "countries/Iraq.txt"
+#+KHL     = "countries/Khalid.txt" # Honestly may refactor/rename if I can't find any flags or symbols
+#+OMA     = "countries/Oman.txt"
 
 # Central
-BUK     = "countries/Bukhara.txt"
-GEO     = "countries/Georgia.txt"
-GOL     = "countries/Golden Horde.txt"
-KHV     = "countries/Khiva.txt"
-PER     = "countries/Persia.txt"
+#+BUK     = "countries/Bukhara.txt"
+#+GEO     = "countries/Georgia.txt"
+#+GOL     = "countries/Golden Horde.txt"
+#+KHV     = "countries/Khiva.txt"
+#+PER     = "countries/Persia.txt"
 
 # South
-HYD     = "countries/Hyderabad.txt"
-MRT     = "countries/Marathas.txt"
-MUG     = "countries/Mughalistan.txt"
-MYS     = "countries/Mysore.txt"
-SKH     = "countries/Sikh Empire.txt"
+#+HYD     = "countries/Hyderabad.txt"
+#+MRT     = "countries/Marathas.txt"
+#+MUG     = "countries/Mughalistan.txt"
+#+MYS     = "countries/Mysore.txt"
+#+SKH     = "countries/Sikh Empire.txt"
 
 # East
-DZU     = "countries/Dzungaria.txt"
-JAP     = "countries/Japan.txt"
-KOR     = "countries/Korea.txt"
-MAN     = "countries/Manchuria.txt"
-MNG     = "countries/Ming.txt"
-SEB     = "countries/Sebastines.txt"
-SEN     = "countries/Sendai.txt" # formerly Tohoku
-SFE     = "countries/Swedish Far East.txt"
-SHU     = "countries/Shun.txt"
-XID     = "countries/Xi.txt"
+#+DZU     = "countries/Dzungaria.txt"
+#+JAP     = "countries/Japan.txt"
+#+KOR     = "countries/Korea.txt"
+#+MAN     = "countries/Manchuria.txt"
+#+MNG     = "countries/Ming.txt"
+#+SEB     = "countries/Sebastines.txt"
+#+SEN     = "countries/Sendai.txt" # formerly Tohoku
+#+SFE     = "countries/Swedish Far East.txt"
+#+SHU     = "countries/Shun.txt"
+#+XID     = "countries/Xi.txt"
 
 # Southeast
-ASM     = "countries/Assam.txt"
-AYU     = "countries/Ayutthaya.txt"
-CAM     = "countries/Cambodia.txt"
-DAI     = "countries/Dai Nam.txt"
-JOH     = "countries/Johor.txt" # Flags from HFM (Might make my own)
-LNA     = "countries/Lan Na.txt"
-LXA     = "countries/Lan Xang.txt"
+#+ASM     = "countries/Assam.txt"
+#+AYU     = "countries/Ayutthaya.txt"
+#+CAM     = "countries/Cambodia.txt"
+#+DAI     = "countries/Dai Nam.txt"
+#+JOH     = "countries/Johor.txt" # Flags from HFM (Might make my own)
+#+LNA     = "countries/Lan Na.txt"
+#+LXA     = "countries/Lan Xang.txt"
 
 # Oceania
-ACE     = "countries/Aceh.txt"
-BLU     = "countries/Bulungan.txt" # east borneo
-BRU     = "countries/Brunei.txt"
+#+ACE     = "countries/Aceh.txt"
+#+BLU     = "countries/Bulungan.txt" # east borneo
+#+BRU     = "countries/Brunei.txt"
 ####FEI     = "countries/Frisian East Indies.txt" # May just have it be part of Friesland
-MTA     = "countries/Mataram.txt" # java
-NCA     = "countries/New Caledonia.txt"
-NHO     = "countries/New Holland.txt"
-PAG     = "countries/Pagaruyung.txt" # south sumatra
-PON     = "countries/Pontianak.txt" # south borneo
-SAK     = "countries/Siak.txt" # northeast sumatra
+#+MTA     = "countries/Mataram.txt" # java
+#+NCA     = "countries/New Caledonia.txt"
+#+NHO     = "countries/New Holland.txt"
+#+PAG     = "countries/Pagaruyung.txt" # south sumatra
+#+PON     = "countries/Pontianak.txt" # south borneo
+#+SAK     = "countries/Siak.txt" # northeast sumatra
 
 ## New World ##
 
 # North America
-ALN     = "countries/Alba Nuadh.txt"
-COM     = "countries/Comancharia.txt"
-GNZ     = "countries/Gonzaria.txt" #Central America #May change name
-MXI     = "countries/Mexigua.txt" #Central Mexico
+#+ALN     = "countries/Alba Nuadh.txt"
+#+COM     = "countries/Comancharia.txt"
+#+GNZ     = "countries/Gonzaria.txt" #Central America #May change name
+#+MXI     = "countries/Mexigua.txt" #Central Mexico
 NCU     = "countries/New Cuba.txt"
 NFR     = "countries/New Frisia.txt"
 #####NSW     = "countries/New Sweden.txt" # May combine into SFE
 NUN     = "countries/Nunavikland.txt"
-PAN     = "countries/Panigua.txt" #Western Mexico
+#+PAN     = "countries/Panigua.txt" #Western Mexico
 VIN     = "countries/Vinland.txt"
 
 # South America
-BRS     = "countries/Brasil.txt"
-CHM     = "countries/Chimor.txt"
-GUI     = "countries/Guiana.txt"
-NGA     = "countries/New Galicia.txt"
+#+BRS     = "countries/Brasil.txt"
+#+CHM     = "countries/Chimor.txt"
+#+GUI     = "countries/Guiana.txt"
+#+NGA     = "countries/New Galicia.txt"
 PAT     = "countries/Patagonia.txt"
-TIW     = "countries/Tiwanaku.txt"
-WAR     = "countries/Wari.txt"
+#+TIW     = "countries/Tiwanaku.txt"
+#+WAR     = "countries/Wari.txt"
 
 
 ###### FORMABLE TAGS ######
@@ -192,7 +192,7 @@ WAR     = "countries/Wari.txt"
 #SGF     = "countries/South German Fed.txt"
 #SWI     = "countries/Switzerland.txt"
 #WES     = "countries/Westphalia.txt"
-WSR     = "countries/Weserian Federation.txt"
+#+WSR     = "countries/Weserian Federation.txt"
 
 ## Asia ##
 #CHI     = "countries/China.txt"
@@ -270,7 +270,7 @@ WSR     = "countries/Weserian Federation.txt"
 #WUR     = "countries/Wurttemberg.txt"
 
 # Eastern
-#+MAC     = "countries/Macedonia.txt"
+#MAC     = "countries/Macedonia.txt"
 #VOL     = "countries/Volhynia.txt"
 
 ## Asia ##
