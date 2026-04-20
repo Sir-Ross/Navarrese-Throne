@@ -192,7 +192,7 @@ PAT     = "countries/Patagonia.txt"
 #SGF     = "countries/South German Fed.txt"
 #SWI     = "countries/Switzerland.txt"
 #WES     = "countries/Westphalia.txt"
-#WSR     = "countries/Weserian Federation.txt"
+#+WSR     = "countries/Weserian Federation.txt"
 
 ## Asia ##
 #CHI     = "countries/China.txt"
