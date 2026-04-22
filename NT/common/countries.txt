@@ -98,7 +98,7 @@ POR     = "countries/Portugal.txt"
 ## Asia ##
 
 # Middle East
-#+ABY     = "countries/Abyssinia.txt"
+ABY     = "countries/Abyssinia.txt"
 #+EGY     = "countries/Egypt.txt"
 #+IRQ     = "countries/Iraq.txt"
 #+KHL     = "countries/Khalid.txt" # Honestly may refactor/rename if I can't find any flags or symbols
