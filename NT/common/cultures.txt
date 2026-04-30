@@ -83,7 +83,7 @@ portuguese_american_cultures = {
 		}
 	}
 
-	union = LAV
+	#union = LAV
 }
 
 
@@ -180,7 +180,7 @@ germanic = {
         }
     }
 	 
-	union = GER
+	#union = GER
 }
 
 jewish_cultures = {
@@ -477,7 +477,7 @@ pan_swiss = {
         }
     }
 
-	union = SWI
+	#union = SWI
 }
 	
 scandinavian = {
@@ -690,7 +690,7 @@ italian = {
             Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli
         }
     }
-	union = ITA
+	#union = ITA
 }
 
 iberian = {
@@ -1084,7 +1084,7 @@ pan_romanian = {
 		}
 		radicalism = 10
 	}
-	union = ROM 
+	#union = ROM 
 }
 
 hungarian_culture_group = {
@@ -1163,7 +1163,7 @@ hungarian_culture_group = {
 #		Rokossowski Rola-Zymierski Rómmel Rózicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski
 #		Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
 #	}
-#	union = POL
+#	#union = POL
 #}
 
 west_slavic = {
@@ -1208,7 +1208,7 @@ west_slavic = {
             Vitovsky
         }
     }
-    union = PLC
+    #union = PLC
 }
 
 czecho_slovak_culture_group = {
@@ -1245,7 +1245,7 @@ czecho_slovak_culture_group = {
 		Masaryk Móry Moyses Rázus Rohácek Rudnay Selepcéni Sidor Skultéty-Gábris Smik
 		Sokol Stefánik Suchon Sverma Tiso Trcka Tuka Turanec Viest Zoch }
 	}
-	union = CZH
+	#union = CZH
 }
 
 east_slavic = {
@@ -2536,7 +2536,7 @@ south_asian = {
 		Moresby Mundy Napier Odoni Plummer Ragland Roberts Seaton Seymour
 		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
 	}
-	union = HND
+	#union = HND
 }
 
 indo_iranian = {
@@ -2851,7 +2851,7 @@ east_asian = {
             Jiang Wei Ting Shen Fang Jin Qiu
         }
     }
-	union = CHI
+	#union = CHI
 }
 
 oversea_chinese = {
@@ -3306,7 +3306,7 @@ american_cultures = {
 		}
 		radicalism = 10
 	}
-	union = USA
+	#union = USA
 }
 
 neo_european_cultures = {
