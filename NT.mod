@@ -1,3 +1,6 @@
 name = "Navarrese Throne 0.0.1"
 path = "mod/NT"
 user_dir = "NT"
+replace_path = "events"
+replace_path = "decisions"
+replace_path = "history/provinces"
