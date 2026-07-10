@@ -199,6 +199,7 @@ WSR     = "countries/Weserian Federation.txt" #+
 
 ## Asia ##
 CHI     = "countries/China.txt" ##
+KIR     = "countries/Kirishitan Japan.txt #+
 NCO     = "countries/New Cordoba.txt" ##
 PRL     = "countries/Pure Land.txt" ##
 
