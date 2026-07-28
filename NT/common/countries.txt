@@ -182,6 +182,7 @@ WAR     = "countries/Wari.txt" #+
 
 ## Europe ##
 AGF     = "countries/Anglo-Frisia.txt" ## ## MAY REMOVE ## 
+ALP     = "countries/Alpine League.txt" #+
 BTT     = "countries/Bretonnia.txt" ##
 DNB     = "countries/Danubian Federation.txt" ##
 EAS     = "countries/Eastphalia.txt" ##
@@ -189,6 +190,7 @@ FRA     = "countries/France.txt" ##
 FRN     = "countries/Franconia.txt" ##
 HIS     = "countries/Hispania.txt" ##
 ITA     = "countries/Italy.txt" ##
+LTT     = "countries/Lothier.txt" #+
 NGF     = "countries/North German Fed.txt" ##
 RHI     = "countries/Rhineland.txt" ##
 RRT     = "countries/Red Ruthenia.txt" ##
